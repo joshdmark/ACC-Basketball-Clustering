@@ -1,0 +1,1311 @@
+player,player_full_name,team_name,team_name2,cluster,stat,value
+A. Bacot,Armando Bacot,North Carolina,UNC,4,mpg,24.4838709677419
+A. Dawes,Al-Amir Dawes,Clemson,Clemson,1,mpg,29.7741935483871
+A. Harris,Anthony Harris,North Carolina,UNC,3,mpg,12
+A. Hemenway,Alex Hemenway,Clemson,Clemson,3,mpg,12.2
+A. O'Connell,Alex O'Connell,Duke,Duke,3,mpg,13.3103448275862
+A. Platek,Andrew Platek,North Carolina,UNC,3,mpg,17.9333333333333
+A. Polite,Anthony Polite,Florida State,Florida State,3,mpg,19.8064516129032
+A. Price,Asanti Price,Georgia Tech,Georgia Tech,3,mpg,15
+A. Simms,Aamir Simms,Clemson,Clemson,4,mpg,31.6
+A. Toney,Au'Diese Toney,Pittsburgh,Pitt,4,mpg,30.3333333333333
+A. Walker,Anthony Walker,Miami,Miami,2,mpg,12.32
+A. White,Andrien White,Wake Forest,Wake Forest,3,mpg,24.2903225806452
+B. Beverly,Braxton Beverly,NC State,NC State,3,mpg,24.84375
+B. Boeheim,Buddy Boeheim,Syracuse,Syracuse,1,mpg,35.5625
+B. Childress,Brandon Childress,Wake Forest,Wake Forest,1,mpg,35.4333333333333
+B. Key,Braxton Key,Virginia,UVA,4,mpg,33.5555555555556
+B. Koprivica,Balsa Koprivica,Florida State,Florida State,2,mpg,10.2962962962963
+B. Parham,Bubba Parham,Georgia Tech,Georgia Tech,3,mpg,26.3666666666667
+B. Robinson,Brandon Robinson,North Carolina,UNC,1,mpg,30.1666666666667
+B. Sidibe,Bourama Sidibe,Syracuse,Syracuse,2,mpg,23.96875
+C. Anthony,Cole Anthony,North Carolina,UNC,1,mpg,35
+C. Brown,Chaundee Brown,Wake Forest,Wake Forest,4,mpg,28.1739130434783
+C. Felder,CJ Felder,Boston College,Boston College,2,mpg,20.4838709677419
+C. Hunter,Chase Hunter,Clemson,Clemson,3,mpg,19.3333333333333
+C. Keeling,Christian Keeling,North Carolina,UNC,3,mpg,18.84375
+C. Lykes,Chris Lykes,Miami,Miami,1,mpg,30.0769230769231
+C. Morsell,Casey Morsell,Virginia,UVA,3,mpg,21.7666666666667
+C. Scott,Curran Scott,Clemson,Clemson,3,mpg,20.1290322580645
+C. Stanley,Cassius Stanley,Duke,Duke,4,mpg,27.448275862069
+C. Trapp,Clyde Trapp,Clemson,Clemson,3,mpg,25.6190476190476
+C.J. Bryce,C.J. Bryce,NC State,NC State,4,mpg,33.6071428571429
+D. Daniels,Devon Daniels,NC State,NC State,4,mpg,31.0625
+D. Funderburk,DJ Funderburk,NC State,NC State,4,mpg,26.0333333333333
+D. Gak,Deng Gak,Miami,Miami,2,mpg,12
+D. Goodwin,Dane Goodwin,Notre Dame,Notre Dame,3,mpg,26.125
+D. Johnson,David Johnson,Louisville,Louisville,3,mpg,16
+D. Olejniczak,Dominik Olejniczak,Florida State,Florida State,2,mpg,10.6896551724138
+D. Perry,Darius Perry,Louisville,Louisville,3,mpg,19.4838709677419
+D. Sutton,Dwayne Sutton,Louisville,Louisville,4,mpg,31.4838709677419
+D. Thornton,Derryck Thornton,Boston College,Boston College,1,mpg,31.448275862069
+D. Vasiljevic,Dejan Vasiljevic,Miami,Miami,3,mpg,33.8387096774194
+D. Vassell,Devin Vassell,Florida State,Florida State,4,mpg,28.7666666666667
+E. Cole,Evan Cole,Georgia Tech,Georgia Tech,2,mpg,12.3846153846154
+E. Hamilton,Eric Hamilton,Pittsburgh,Pitt,2,mpg,16.6333333333333
+E. Hughes,Elijah Hughes,Syracuse,Syracuse,1,mpg,36.71875
+G. Brooks,Garrison Brooks,North Carolina,UNC,4,mpg,35.0322580645161
+H. Beverly,Harlond Beverly,Miami,Miami,3,mpg,19.9032258064516
+H. Cattoor,Hunter Cattoor,Virginia Tech,Virginia Tech,3,mpg,20.2758620689655
+H. Tyson,Hunter Tyson,Clemson,Clemson,3,mpg,13.5806451612903
+I. Massoud,Ismael Massoud,Wake Forest,Wake Forest,3,mpg,12.2258064516129
+I. Mucius,Isaiah Mucius,Wake Forest,Wake Forest,3,mpg,22.7666666666667
+I. Wilkins,Isaiah Wilkins,Virginia Tech,Virginia Tech,3,mpg,14.2333333333333
+I. Wong,Isaiah Wong,Miami,Miami,3,mpg,21.1612903225806
+J. Alvarado,Jose Alvarado,Georgia Tech,Georgia Tech,1,mpg,33.4583333333333
+J. Baehre,Jonathan Baehre,Clemson,Clemson,3,mpg,13.5
+J. Baker,Joey Baker,Duke,Duke,3,mpg,12.5185185185185
+J. Banks III,James Banks III,Georgia Tech,Georgia Tech,4,mpg,29.6666666666667
+J. Carey,Jalen Carey,Syracuse,Syracuse,3,mpg,11.5
+J. Champagnie,Justin Champagnie,Pittsburgh,Pitt,4,mpg,32.9375
+J. Cone,Jalen Cone,Virginia Tech,Virginia Tech,3,mpg,18.2666666666667
+J. DeLaurier,Javin DeLaurier,Duke,Duke,2,mpg,13.2258064516129
+J. Durham,Juwan Durham,Notre Dame,Notre Dame,2,mpg,17.5
+J. Francis,Jeremiah Francis,North Carolina,UNC,3,mpg,13.625
+J. Girard III,Joseph Girard III,Syracuse,Syracuse,1,mpg,33.03125
+J. Goldwire,Jordan Goldwire,Duke,Duke,3,mpg,24.0967741935484
+J. Hamilton,Jairus Hamilton,Boston College,Boston College,4,mpg,25.75
+J. Hamilton,Jared Hamilton,Boston College,Boston College,3,mpg,24.92
+J. Heath,Jay Heath,Boston College,Boston College,1,mpg,33.258064516129
+J. Hellems,Jericole Hellems,NC State,NC State,3,mpg,25.4838709677419
+J. Huff,Jay Huff,Virginia,UVA,4,mpg,24.9666666666667
+J. Mooney,John Mooney,Notre Dame,Notre Dame,4,mpg,32.6774193548387
+J. Neath,Jahcobi Neath,Wake Forest,Wake Forest,3,mpg,18.4666666666667
+J. Newman III,John Newman III,Clemson,Clemson,3,mpg,31.6451612903226
+J. Nwora,Jordan Nwora,Louisville,Louisville,4,mpg,33.0967741935484
+J. Pierce,Justin Pierce,North Carolina,UNC,3,mpg,18.2903225806452
+J. Rishwain,Julian Rishwain,Boston College,Boston College,3,mpg,14.9
+J. Usher,Jordan Usher,Georgia Tech,Georgia Tech,4,mpg,26.5652173913044
+J. White,Jack White,Duke,Duke,3,mpg,15.6
+K. Clark,Kihei Clark,Virginia,UVA,1,mpg,37.1333333333333
+K. McGusty,Kameron McGusty,Miami,Miami,1,mpg,29.4642857142857
+K. Moore,Khalid Moore,Georgia Tech,Georgia Tech,3,mpg,16.2857142857143
+K. Stattmann,Kody Stattmann,Virginia,UVA,3,mpg,21.4583333333333
+K. Stone,Keith Stone,Miami,Miami,3,mpg,23.3333333333333
+K. Williams,Kamari Williams,Boston College,Boston College,3,mpg,11.2
+L. Black,Leaky Black,North Carolina,UNC,4,mpg,29.5806451612903
+L. Kimble,Lamarr Kimble,Louisville,Louisville,3,mpg,21.8064516129032
+L. Nolley II,Landers Nolley II,Virginia Tech,Virginia Tech,4,mpg,30.4666666666667
+M. Bates,Manny Bates,NC State,NC State,2,mpg,18.4137931034483
+M. Devoe,Michael Devoe,Georgia Tech,Georgia Tech,1,mpg,34.962962962963
+M. Diakite,Mamadi Diakite,Virginia,UVA,4,mpg,32.8333333333333
+M. Dolezaj,Marek Dolezaj,Syracuse,Syracuse,4,mpg,33.28125
+M. Hurt,Matthew Hurt,Duke,Duke,3,mpg,20.5483870967742
+M. Johnson,Markell Johnson,NC State,NC State,1,mpg,34.0967741935484
+M. Osborne,Malik Osborne,Florida State,Florida State,3,mpg,19.2903225806452
+M. Williams,Malik Williams,Louisville,Louisville,4,mpg,18.6538461538462
+M. Wright,Moses Wright,Georgia Tech,Georgia Tech,4,mpg,30.3
+M.J. Walker,M.J. Walker,Florida State,Florida State,3,mpg,25.2307692307692
+N. Alleyne,Nahiem Alleyne,Virginia Tech,Virginia Tech,3,mpg,26.1333333333333
+N. Laszewski,Nate Laszewski,Notre Dame,Notre Dame,3,mpg,20.96875
+N. Popovic,Nik Popovic,Boston College,Boston College,4,mpg,25.6
+O. Oguama,Ody Oguama,Wake Forest,Wake Forest,2,mpg,14.9354838709677
+O. Sarr,Olivier Sarr,Wake Forest,Wake Forest,4,mpg,26.7
+P. Andree,Pat Andree,NC State,NC State,3,mpg,13.962962962963
+P. Hubb,Prentiss Hubb,Notre Dame,Notre Dame,1,mpg,35.25
+P. Williams,Patrick Williams,Florida State,Florida State,4,mpg,22.5172413793103
+P.J. Horne,P.J. Horne,Virginia Tech,Virginia Tech,3,mpg,28.7333333333333
+Q. Guerrier,Quincy Guerrier,Syracuse,Syracuse,2,mpg,20.34375
+R. Carmody,Robby Carmody,Notre Dame,Notre Dame,2,mpg,13.7142857142857
+R. Evans,Rayquan Evans,Florida State,Florida State,3,mpg,11.3793103448276
+R. Gray,RaiQuan Gray,Florida State,Florida State,4,mpg,19.4827586206897
+R. McMahon,Ryan McMahon,Louisville,Louisville,3,mpg,24.6774193548387
+R. Miller Jr.,Rodney Miller Jr.,Miami,Miami,2,mpg,24.0666666666667
+R. Murphy,Ryan Murphy,Pittsburgh,Pitt,3,mpg,24.3103448275862
+R. Pflueger,Rex Pflueger,Notre Dame,Notre Dame,3,mpg,27.258064516129
+S. Enoch,Steven Enoch,Louisville,Louisville,4,mpg,20.3870967741935
+S. Mitchell,Steffon Mitchell,Boston College,Boston College,4,mpg,32.4838709677419
+S. Waardenburg,Sam Waardenburg,Miami,Miami,4,mpg,28.1333333333333
+S. Williamson,Samuell Williamson,Louisville,Louisville,3,mpg,15.3225806451613
+T. Brown,Terrell Brown,Pittsburgh,Pitt,2,mpg,18.46875
+T. Forrest,Trent Forrest,Florida State,Florida State,1,mpg,30.9354838709677
+T. Gibbs,TJ Gibbs,Notre Dame,Notre Dame,1,mpg,34.96875
+T. Johnson,Torry Johnson,Wake Forest,Wake Forest,3,mpg,24.7142857142857
+T. Jones,Tre Jones,Duke,Duke,1,mpg,35.448275862069
+T. Mack,Tevin Mack,Clemson,Clemson,4,mpg,28.3548387096774
+T. McGowens,Trey McGowens,Pittsburgh,Pitt,1,mpg,34.0625
+T. Radford,Tyrece Radford,Virginia Tech,Virginia Tech,2,mpg,26.6
+T. Woldetensae,Tomas Woldetensae,Virginia,UVA,3,mpg,27.0689655172414
+V. Carey Jr.,Vernon Carey Jr.,Duke,Duke,4,mpg,24.9032258064516
+W. Bede,Wabissa Bede,Virginia Tech,Virginia Tech,1,mpg,30.2666666666667
+W. Moore Jr.,Wendell Moore Jr.,Duke,Duke,4,mpg,24
+X. Johnson,Xavier Johnson,Pittsburgh,Pitt,1,mpg,33.3125
+A. Bacot,Armando Bacot,North Carolina,UNC,4,fgp,0.461538461538462
+A. Dawes,Al-Amir Dawes,Clemson,Clemson,1,fgp,0.381147540983607
+A. Harris,Anthony Harris,North Carolina,UNC,3,fgp,0.545454545454545
+A. Hemenway,Alex Hemenway,Clemson,Clemson,3,fgp,0.5
+A. O'Connell,Alex O'Connell,Duke,Duke,3,fgp,0.405405405405405
+A. Platek,Andrew Platek,North Carolina,UNC,3,fgp,0.358974358974359
+A. Polite,Anthony Polite,Florida State,Florida State,3,fgp,0.406451612903226
+A. Price,Asanti Price,Georgia Tech,Georgia Tech,3,fgp,0.30188679245283
+A. Simms,Aamir Simms,Clemson,Clemson,4,fgp,0.474402730375427
+A. Toney,Au'Diese Toney,Pittsburgh,Pitt,4,fgp,0.466960352422908
+A. Walker,Anthony Walker,Miami,Miami,2,fgp,0.405063291139241
+A. White,Andrien White,Wake Forest,Wake Forest,3,fgp,0.379912663755459
+B. Beverly,Braxton Beverly,NC State,NC State,3,fgp,0.388888888888889
+B. Boeheim,Buddy Boeheim,Syracuse,Syracuse,1,fgp,0.407834101382489
+B. Childress,Brandon Childress,Wake Forest,Wake Forest,1,fgp,0.403899721448468
+B. Key,Braxton Key,Virginia,UVA,4,fgp,0.435344827586207
+B. Koprivica,Balsa Koprivica,Florida State,Florida State,2,fgp,0.698630136986301
+B. Parham,Bubba Parham,Georgia Tech,Georgia Tech,3,fgp,0.361111111111111
+B. Robinson,Brandon Robinson,North Carolina,UNC,1,fgp,0.413333333333333
+B. Sidibe,Bourama Sidibe,Syracuse,Syracuse,2,fgp,0.692307692307692
+C. Anthony,Cole Anthony,North Carolina,UNC,1,fgp,0.378048780487805
+C. Brown,Chaundee Brown,Wake Forest,Wake Forest,4,fgp,0.455813953488372
+C. Felder,CJ Felder,Boston College,Boston College,2,fgp,0.43312101910828
+C. Hunter,Chase Hunter,Clemson,Clemson,3,fgp,0.377777777777778
+C. Keeling,Christian Keeling,North Carolina,UNC,3,fgp,0.427083333333333
+C. Lykes,Chris Lykes,Miami,Miami,1,fgp,0.432098765432099
+C. Morsell,Casey Morsell,Virginia,UVA,3,fgp,0.27710843373494
+C. Scott,Curran Scott,Clemson,Clemson,3,fgp,0.369127516778524
+C. Stanley,Cassius Stanley,Duke,Duke,4,fgp,0.474074074074074
+C. Trapp,Clyde Trapp,Clemson,Clemson,3,fgp,0.366666666666667
+C.J. Bryce,C.J. Bryce,NC State,NC State,4,fgp,0.440625
+D. Daniels,Devon Daniels,NC State,NC State,4,fgp,0.470059880239521
+D. Funderburk,DJ Funderburk,NC State,NC State,4,fgp,0.609442060085837
+D. Gak,Deng Gak,Miami,Miami,2,fgp,0.625
+D. Goodwin,Dane Goodwin,Notre Dame,Notre Dame,3,fgp,0.432525951557093
+D. Johnson,David Johnson,Louisville,Louisville,3,fgp,0.493055555555556
+D. Olejniczak,Dominik Olejniczak,Florida State,Florida State,2,fgp,0.611111111111111
+D. Perry,Darius Perry,Louisville,Louisville,3,fgp,0.391025641025641
+D. Sutton,Dwayne Sutton,Louisville,Louisville,4,fgp,0.505263157894737
+D. Thornton,Derryck Thornton,Boston College,Boston College,1,fgp,0.375757575757576
+D. Vasiljevic,Dejan Vasiljevic,Miami,Miami,3,fgp,0.408284023668639
+D. Vassell,Devin Vassell,Florida State,Florida State,4,fgp,0.489795918367347
+E. Cole,Evan Cole,Georgia Tech,Georgia Tech,2,fgp,0.474226804123711
+E. Hamilton,Eric Hamilton,Pittsburgh,Pitt,2,fgp,0.478632478632479
+E. Hughes,Elijah Hughes,Syracuse,Syracuse,1,fgp,0.425806451612903
+G. Brooks,Garrison Brooks,North Carolina,UNC,4,fgp,0.536458333333333
+H. Beverly,Harlond Beverly,Miami,Miami,3,fgp,0.404761904761905
+H. Cattoor,Hunter Cattoor,Virginia Tech,Virginia Tech,3,fgp,0.395973154362416
+H. Tyson,Hunter Tyson,Clemson,Clemson,3,fgp,0.4453125
+I. Massoud,Ismael Massoud,Wake Forest,Wake Forest,3,fgp,0.385245901639344
+I. Mucius,Isaiah Mucius,Wake Forest,Wake Forest,3,fgp,0.425925925925926
+I. Wilkins,Isaiah Wilkins,Virginia Tech,Virginia Tech,3,fgp,0.330827067669173
+I. Wong,Isaiah Wong,Miami,Miami,3,fgp,0.415789473684211
+J. Alvarado,Jose Alvarado,Georgia Tech,Georgia Tech,1,fgp,0.444029850746269
+J. Baehre,Jonathan Baehre,Clemson,Clemson,3,fgp,0
+J. Baker,Joey Baker,Duke,Duke,3,fgp,0.409836065573771
+J. Banks III,James Banks III,Georgia Tech,Georgia Tech,4,fgp,0.528205128205128
+J. Carey,Jalen Carey,Syracuse,Syracuse,3,fgp,0.125
+J. Champagnie,Justin Champagnie,Pittsburgh,Pitt,4,fgp,0.413105413105413
+J. Cone,Jalen Cone,Virginia Tech,Virginia Tech,3,fgp,0.404371584699454
+J. DeLaurier,Javin DeLaurier,Duke,Duke,2,fgp,0.554054054054054
+J. Durham,Juwan Durham,Notre Dame,Notre Dame,2,fgp,0.564705882352941
+J. Francis,Jeremiah Francis,North Carolina,UNC,3,fgp,0.227272727272727
+J. Girard III,Joseph Girard III,Syracuse,Syracuse,1,fgp,0.347578347578348
+J. Goldwire,Jordan Goldwire,Duke,Duke,3,fgp,0.487394957983193
+J. Hamilton,Jairus Hamilton,Boston College,Boston College,4,fgp,0.427860696517413
+J. Hamilton,Jared Hamilton,Boston College,Boston College,3,fgp,0.410404624277457
+J. Heath,Jay Heath,Boston College,Boston College,1,fgp,0.42090395480226
+J. Hellems,Jericole Hellems,NC State,NC State,3,fgp,0.403921568627451
+J. Huff,Jay Huff,Virginia,UVA,4,fgp,0.570652173913044
+J. Mooney,John Mooney,Notre Dame,Notre Dame,4,fgp,0.459584295612009
+J. Neath,Jahcobi Neath,Wake Forest,Wake Forest,3,fgp,0.421875
+J. Newman III,John Newman III,Clemson,Clemson,3,fgp,0.44017094017094
+J. Nwora,Jordan Nwora,Louisville,Louisville,4,fgp,0.43953488372093
+J. Pierce,Justin Pierce,North Carolina,UNC,3,fgp,0.36875
+J. Rishwain,Julian Rishwain,Boston College,Boston College,3,fgp,0.31404958677686
+J. Usher,Jordan Usher,Georgia Tech,Georgia Tech,4,fgp,0.403508771929825
+J. White,Jack White,Duke,Duke,3,fgp,0.3875
+K. Clark,Kihei Clark,Virginia,UVA,1,fgp,0.375
+K. McGusty,Kameron McGusty,Miami,Miami,1,fgp,0.434782608695652
+K. Moore,Khalid Moore,Georgia Tech,Georgia Tech,3,fgp,0.349397590361446
+K. Stattmann,Kody Stattmann,Virginia,UVA,3,fgp,0.336734693877551
+K. Stone,Keith Stone,Miami,Miami,3,fgp,0.348314606741573
+K. Williams,Kamari Williams,Boston College,Boston College,3,fgp,0.333333333333333
+L. Black,Leaky Black,North Carolina,UNC,4,fgp,0.36405529953917
+L. Kimble,Lamarr Kimble,Louisville,Louisville,3,fgp,0.358974358974359
+L. Nolley II,Landers Nolley II,Virginia Tech,Virginia Tech,4,fgp,0.36551724137931
+M. Bates,Manny Bates,NC State,NC State,2,fgp,0.656565656565657
+M. Devoe,Michael Devoe,Georgia Tech,Georgia Tech,1,fgp,0.464968152866242
+M. Diakite,Mamadi Diakite,Virginia,UVA,4,fgp,0.477707006369427
+M. Dolezaj,Marek Dolezaj,Syracuse,Syracuse,4,fgp,0.506849315068493
+M. Hurt,Matthew Hurt,Duke,Duke,3,fgp,0.486725663716814
+M. Johnson,Markell Johnson,NC State,NC State,1,fgp,0.404891304347826
+M. Osborne,Malik Osborne,Florida State,Florida State,3,fgp,0.461038961038961
+M. Williams,Malik Williams,Louisville,Louisville,4,fgp,0.496732026143791
+M. Wright,Moses Wright,Georgia Tech,Georgia Tech,4,fgp,0.525806451612903
+M.J. Walker,M.J. Walker,Florida State,Florida State,3,fgp,0.37117903930131
+N. Alleyne,Nahiem Alleyne,Virginia Tech,Virginia Tech,3,fgp,0.408071748878924
+N. Laszewski,Nate Laszewski,Notre Dame,Notre Dame,3,fgp,0.41025641025641
+N. Popovic,Nik Popovic,Boston College,Boston College,4,fgp,0.435483870967742
+O. Oguama,Ody Oguama,Wake Forest,Wake Forest,2,fgp,0.543859649122807
+O. Sarr,Olivier Sarr,Wake Forest,Wake Forest,4,fgp,0.526923076923077
+P. Andree,Pat Andree,NC State,NC State,3,fgp,0.301724137931035
+P. Hubb,Prentiss Hubb,Notre Dame,Notre Dame,1,fgp,0.384831460674157
+P. Williams,Patrick Williams,Florida State,Florida State,4,fgp,0.458937198067633
+P.J. Horne,P.J. Horne,Virginia Tech,Virginia Tech,3,fgp,0.442211055276382
+Q. Guerrier,Quincy Guerrier,Syracuse,Syracuse,2,fgp,0.496774193548387
+R. Carmody,Robby Carmody,Notre Dame,Notre Dame,2,fgp,0.5
+R. Evans,Rayquan Evans,Florida State,Florida State,3,fgp,0.455882352941176
+R. Gray,RaiQuan Gray,Florida State,Florida State,4,fgp,0.391891891891892
+R. McMahon,Ryan McMahon,Louisville,Louisville,3,fgp,0.421875
+R. Miller Jr.,Rodney Miller Jr.,Miami,Miami,2,fgp,0.575
+R. Murphy,Ryan Murphy,Pittsburgh,Pitt,3,fgp,0.369158878504673
+R. Pflueger,Rex Pflueger,Notre Dame,Notre Dame,3,fgp,0.335526315789474
+S. Enoch,Steven Enoch,Louisville,Louisville,4,fgp,0.515695067264574
+S. Mitchell,Steffon Mitchell,Boston College,Boston College,4,fgp,0.446327683615819
+S. Waardenburg,Sam Waardenburg,Miami,Miami,4,fgp,0.412162162162162
+S. Williamson,Samuell Williamson,Louisville,Louisville,3,fgp,0.469565217391304
+T. Brown,Terrell Brown,Pittsburgh,Pitt,2,fgp,0.521008403361345
+T. Forrest,Trent Forrest,Florida State,Florida State,1,fgp,0.459363957597173
+T. Gibbs,TJ Gibbs,Notre Dame,Notre Dame,1,fgp,0.420118343195266
+T. Johnson,Torry Johnson,Wake Forest,Wake Forest,3,fgp,0.398373983739837
+T. Jones,Tre Jones,Duke,Duke,1,fgp,0.422976501305483
+T. Mack,Tevin Mack,Clemson,Clemson,4,fgp,0.449230769230769
+T. McGowens,Trey McGowens,Pittsburgh,Pitt,1,fgp,0.370149253731343
+T. Radford,Tyrece Radford,Virginia Tech,Virginia Tech,2,fgp,0.603864734299517
+T. Woldetensae,Tomas Woldetensae,Virginia,UVA,3,fgp,0.347593582887701
+V. Carey Jr.,Vernon Carey Jr.,Duke,Duke,4,fgp,0.576811594202899
+W. Bede,Wabissa Bede,Virginia Tech,Virginia Tech,1,fgp,0.371951219512195
+W. Moore Jr.,Wendell Moore Jr.,Duke,Duke,4,fgp,0.415584415584416
+X. Johnson,Xavier Johnson,Pittsburgh,Pitt,1,fgp,0.372239747634069
+A. Bacot,Armando Bacot,North Carolina,UNC,4,fg3p,0
+A. Dawes,Al-Amir Dawes,Clemson,Clemson,1,fg3p,0.317880794701987
+A. Harris,Anthony Harris,North Carolina,UNC,3,fg3p,0.428571428571429
+A. Hemenway,Alex Hemenway,Clemson,Clemson,3,fg3p,0.476190476190476
+A. O'Connell,Alex O'Connell,Duke,Duke,3,fg3p,0.272727272727273
+A. Platek,Andrew Platek,North Carolina,UNC,3,fg3p,0.226415094339623
+A. Polite,Anthony Polite,Florida State,Florida State,3,fg3p,0.354166666666667
+A. Price,Asanti Price,Georgia Tech,Georgia Tech,3,fg3p,0.133333333333333
+A. Simms,Aamir Simms,Clemson,Clemson,4,fg3p,0.4
+A. Toney,Au'Diese Toney,Pittsburgh,Pitt,4,fg3p,0.333333333333333
+A. Walker,Anthony Walker,Miami,Miami,2,fg3p,0.157894736842105
+A. White,Andrien White,Wake Forest,Wake Forest,3,fg3p,0.375838926174497
+B. Beverly,Braxton Beverly,NC State,NC State,3,fg3p,0.373134328358209
+B. Boeheim,Buddy Boeheim,Syracuse,Syracuse,1,fg3p,0.370229007633588
+B. Childress,Brandon Childress,Wake Forest,Wake Forest,1,fg3p,0.324675324675325
+B. Key,Braxton Key,Virginia,UVA,4,fg3p,0.184615384615385
+B. Koprivica,Balsa Koprivica,Florida State,Florida State,2,fg3p,0
+B. Parham,Bubba Parham,Georgia Tech,Georgia Tech,3,fg3p,0.30952380952381
+B. Robinson,Brandon Robinson,North Carolina,UNC,1,fg3p,0.36875
+B. Sidibe,Bourama Sidibe,Syracuse,Syracuse,2,fg3p,0
+C. Anthony,Cole Anthony,North Carolina,UNC,1,fg3p,0.343283582089552
+C. Brown,Chaundee Brown,Wake Forest,Wake Forest,4,fg3p,0.322033898305085
+C. Felder,CJ Felder,Boston College,Boston College,2,fg3p,0.161290322580645
+C. Hunter,Chase Hunter,Clemson,Clemson,3,fg3p,0.304347826086957
+C. Keeling,Christian Keeling,North Carolina,UNC,3,fg3p,0.326086956521739
+C. Lykes,Chris Lykes,Miami,Miami,1,fg3p,0.380597014925373
+C. Morsell,Casey Morsell,Virginia,UVA,3,fg3p,0.176470588235294
+C. Scott,Curran Scott,Clemson,Clemson,3,fg3p,0.263888888888889
+C. Stanley,Cassius Stanley,Duke,Duke,4,fg3p,0.36046511627907
+C. Trapp,Clyde Trapp,Clemson,Clemson,3,fg3p,0.261538461538462
+C.J. Bryce,C.J. Bryce,NC State,NC State,4,fg3p,0.333333333333333
+D. Daniels,Devon Daniels,NC State,NC State,4,fg3p,0.32183908045977
+D. Funderburk,DJ Funderburk,NC State,NC State,4,fg3p,0.222222222222222
+D. Gak,Deng Gak,Miami,Miami,2,fg3p,0
+D. Goodwin,Dane Goodwin,Notre Dame,Notre Dame,3,fg3p,0.376811594202899
+D. Johnson,David Johnson,Louisville,Louisville,3,fg3p,0.217391304347826
+D. Olejniczak,Dominik Olejniczak,Florida State,Florida State,2,fg3p,0
+D. Perry,Darius Perry,Louisville,Louisville,3,fg3p,0.388888888888889
+D. Sutton,Dwayne Sutton,Louisville,Louisville,4,fg3p,0.353658536585366
+D. Thornton,Derryck Thornton,Boston College,Boston College,1,fg3p,0.26271186440678
+D. Vasiljevic,Dejan Vasiljevic,Miami,Miami,3,fg3p,0.344339622641509
+D. Vassell,Devin Vassell,Florida State,Florida State,4,fg3p,0.415094339622642
+E. Cole,Evan Cole,Georgia Tech,Georgia Tech,2,fg3p,0.2
+E. Hamilton,Eric Hamilton,Pittsburgh,Pitt,2,fg3p,0
+E. Hughes,Elijah Hughes,Syracuse,Syracuse,1,fg3p,0.34061135371179
+G. Brooks,Garrison Brooks,North Carolina,UNC,4,fg3p,0.285714285714286
+H. Beverly,Harlond Beverly,Miami,Miami,3,fg3p,0.21875
+H. Cattoor,Hunter Cattoor,Virginia Tech,Virginia Tech,3,fg3p,0.379310344827586
+H. Tyson,Hunter Tyson,Clemson,Clemson,3,fg3p,0.321428571428571
+I. Massoud,Ismael Massoud,Wake Forest,Wake Forest,3,fg3p,0.397590361445783
+I. Mucius,Isaiah Mucius,Wake Forest,Wake Forest,3,fg3p,0.346153846153846
+I. Wilkins,Isaiah Wilkins,Virginia Tech,Virginia Tech,3,fg3p,0.28
+I. Wong,Isaiah Wong,Miami,Miami,3,fg3p,0.372549019607843
+J. Alvarado,Jose Alvarado,Georgia Tech,Georgia Tech,1,fg3p,0.336
+J. Baehre,Jonathan Baehre,Clemson,Clemson,3,fg3p,0
+J. Baker,Joey Baker,Duke,Duke,3,fg3p,0.394366197183099
+J. Banks III,James Banks III,Georgia Tech,Georgia Tech,4,fg3p,0
+J. Carey,Jalen Carey,Syracuse,Syracuse,3,fg3p,0
+J. Champagnie,Justin Champagnie,Pittsburgh,Pitt,4,fg3p,0.264
+J. Cone,Jalen Cone,Virginia Tech,Virginia Tech,3,fg3p,0.458015267175573
+J. DeLaurier,Javin DeLaurier,Duke,Duke,2,fg3p,0.166666666666667
+J. Durham,Juwan Durham,Notre Dame,Notre Dame,2,fg3p,0
+J. Francis,Jeremiah Francis,North Carolina,UNC,3,fg3p,0.2
+J. Girard III,Joseph Girard III,Syracuse,Syracuse,1,fg3p,0.324074074074074
+J. Goldwire,Jordan Goldwire,Duke,Duke,3,fg3p,0.354166666666667
+J. Hamilton,Jairus Hamilton,Boston College,Boston College,4,fg3p,0.280898876404494
+J. Hamilton,Jared Hamilton,Boston College,Boston College,3,fg3p,0.303030303030303
+J. Heath,Jay Heath,Boston College,Boston College,1,fg3p,0.375722543352601
+J. Hellems,Jericole Hellems,NC State,NC State,3,fg3p,0.330097087378641
+J. Huff,Jay Huff,Virginia,UVA,4,fg3p,0.358490566037736
+J. Mooney,John Mooney,Notre Dame,Notre Dame,4,fg3p,0.295238095238095
+J. Neath,Jahcobi Neath,Wake Forest,Wake Forest,3,fg3p,0.48
+J. Newman III,John Newman III,Clemson,Clemson,3,fg3p,0.303370786516854
+J. Nwora,Jordan Nwora,Louisville,Louisville,4,fg3p,0.402116402116402
+J. Pierce,Justin Pierce,North Carolina,UNC,3,fg3p,0.228571428571429
+J. Rishwain,Julian Rishwain,Boston College,Boston College,3,fg3p,0.333333333333333
+J. Usher,Jordan Usher,Georgia Tech,Georgia Tech,4,fg3p,0.204545454545455
+J. White,Jack White,Duke,Duke,3,fg3p,0.326923076923077
+K. Clark,Kihei Clark,Virginia,UVA,1,fg3p,0.375
+K. McGusty,Kameron McGusty,Miami,Miami,1,fg3p,0.327586206896552
+K. Moore,Khalid Moore,Georgia Tech,Georgia Tech,3,fg3p,0.36
+K. Stattmann,Kody Stattmann,Virginia,UVA,3,fg3p,0.269230769230769
+K. Stone,Keith Stone,Miami,Miami,3,fg3p,0.189189189189189
+K. Williams,Kamari Williams,Boston College,Boston College,3,fg3p,0.239130434782609
+L. Black,Leaky Black,North Carolina,UNC,4,fg3p,0.258064516129032
+L. Kimble,Lamarr Kimble,Louisville,Louisville,3,fg3p,0.275862068965517
+L. Nolley II,Landers Nolley II,Virginia Tech,Virginia Tech,4,fg3p,0.304568527918782
+M. Bates,Manny Bates,NC State,NC State,2,fg3p,0
+M. Devoe,Michael Devoe,Georgia Tech,Georgia Tech,1,fg3p,0.425
+M. Diakite,Mamadi Diakite,Virginia,UVA,4,fg3p,0.363636363636364
+M. Dolezaj,Marek Dolezaj,Syracuse,Syracuse,4,fg3p,0.142857142857143
+M. Hurt,Matthew Hurt,Duke,Duke,3,fg3p,0.392523364485981
+M. Johnson,Markell Johnson,NC State,NC State,1,fg3p,0.267080745341615
+M. Osborne,Malik Osborne,Florida State,Florida State,3,fg3p,0.362068965517241
+M. Williams,Malik Williams,Louisville,Louisville,4,fg3p,0.290322580645161
+M. Wright,Moses Wright,Georgia Tech,Georgia Tech,4,fg3p,0.241379310344828
+M.J. Walker,M.J. Walker,Florida State,Florida State,3,fg3p,0.360655737704918
+N. Alleyne,Nahiem Alleyne,Virginia Tech,Virginia Tech,3,fg3p,0.411764705882353
+N. Laszewski,Nate Laszewski,Notre Dame,Notre Dame,3,fg3p,0.310077519379845
+N. Popovic,Nik Popovic,Boston College,Boston College,4,fg3p,0.333333333333333
+O. Oguama,Ody Oguama,Wake Forest,Wake Forest,2,fg3p,0
+O. Sarr,Olivier Sarr,Wake Forest,Wake Forest,4,fg3p,0.142857142857143
+P. Andree,Pat Andree,NC State,NC State,3,fg3p,0.325842696629214
+P. Hubb,Prentiss Hubb,Notre Dame,Notre Dame,1,fg3p,0.343891402714932
+P. Williams,Patrick Williams,Florida State,Florida State,4,fg3p,0.32
+P.J. Horne,P.J. Horne,Virginia Tech,Virginia Tech,3,fg3p,0.344
+Q. Guerrier,Quincy Guerrier,Syracuse,Syracuse,2,fg3p,0.125
+R. Carmody,Robby Carmody,Notre Dame,Notre Dame,2,fg3p,0
+R. Evans,Rayquan Evans,Florida State,Florida State,3,fg3p,0.411764705882353
+R. Gray,RaiQuan Gray,Florida State,Florida State,4,fg3p,0.219512195121951
+R. McMahon,Ryan McMahon,Louisville,Louisville,3,fg3p,0.435897435897436
+R. Miller Jr.,Rodney Miller Jr.,Miami,Miami,2,fg3p,0
+R. Murphy,Ryan Murphy,Pittsburgh,Pitt,3,fg3p,0.341880341880342
+R. Pflueger,Rex Pflueger,Notre Dame,Notre Dame,3,fg3p,0.333333333333333
+S. Enoch,Steven Enoch,Louisville,Louisville,4,fg3p,0.333333333333333
+S. Mitchell,Steffon Mitchell,Boston College,Boston College,4,fg3p,0.298245614035088
+S. Waardenburg,Sam Waardenburg,Miami,Miami,4,fg3p,0.25
+S. Williamson,Samuell Williamson,Louisville,Louisville,3,fg3p,0.333333333333333
+T. Brown,Terrell Brown,Pittsburgh,Pitt,2,fg3p,0
+T. Forrest,Trent Forrest,Florida State,Florida State,1,fg3p,0.280701754385965
+T. Gibbs,TJ Gibbs,Notre Dame,Notre Dame,1,fg3p,0.419889502762431
+T. Johnson,Torry Johnson,Wake Forest,Wake Forest,3,fg3p,0.282051282051282
+T. Jones,Tre Jones,Duke,Duke,1,fg3p,0.361111111111111
+T. Mack,Tevin Mack,Clemson,Clemson,4,fg3p,0.283132530120482
+T. McGowens,Trey McGowens,Pittsburgh,Pitt,1,fg3p,0.317829457364341
+T. Radford,Tyrece Radford,Virginia Tech,Virginia Tech,2,fg3p,0
+T. Woldetensae,Tomas Woldetensae,Virginia,UVA,3,fg3p,0.361111111111111
+V. Carey Jr.,Vernon Carey Jr.,Duke,Duke,4,fg3p,0.380952380952381
+W. Bede,Wabissa Bede,Virginia Tech,Virginia Tech,1,fg3p,0.220338983050847
+W. Moore Jr.,Wendell Moore Jr.,Duke,Duke,4,fg3p,0.210526315789474
+X. Johnson,Xavier Johnson,Pittsburgh,Pitt,1,fg3p,0.32183908045977
+A. Bacot,Armando Bacot,North Carolina,UNC,4,fg3a,0
+A. Dawes,Al-Amir Dawes,Clemson,Clemson,1,fg3a,0.618852459016393
+A. Harris,Anthony Harris,North Carolina,UNC,3,fg3a,0.318181818181818
+A. Hemenway,Alex Hemenway,Clemson,Clemson,3,fg3a,0.84
+A. O'Connell,Alex O'Connell,Duke,Duke,3,fg3a,0.52027027027027
+A. Platek,Andrew Platek,North Carolina,UNC,3,fg3a,0.452991452991453
+A. Polite,Anthony Polite,Florida State,Florida State,3,fg3a,0.619354838709677
+A. Price,Asanti Price,Georgia Tech,Georgia Tech,3,fg3a,0.566037735849057
+A. Simms,Aamir Simms,Clemson,Clemson,4,fg3a,0.290102389078498
+A. Toney,Au'Diese Toney,Pittsburgh,Pitt,4,fg3a,0.290748898678414
+A. Walker,Anthony Walker,Miami,Miami,2,fg3a,0.240506329113924
+A. White,Andrien White,Wake Forest,Wake Forest,3,fg3a,0.650655021834061
+B. Beverly,Braxton Beverly,NC State,NC State,3,fg3a,0.676767676767677
+B. Boeheim,Buddy Boeheim,Syracuse,Syracuse,1,fg3a,0.603686635944701
+B. Childress,Brandon Childress,Wake Forest,Wake Forest,1,fg3a,0.428969359331476
+B. Key,Braxton Key,Virginia,UVA,4,fg3a,0.280172413793103
+B. Koprivica,Balsa Koprivica,Florida State,Florida State,2,fg3a,0
+B. Parham,Bubba Parham,Georgia Tech,Georgia Tech,3,fg3a,0.583333333333333
+B. Robinson,Brandon Robinson,North Carolina,UNC,1,fg3a,0.711111111111111
+B. Sidibe,Bourama Sidibe,Syracuse,Syracuse,2,fg3a,0
+C. Anthony,Cole Anthony,North Carolina,UNC,1,fg3a,0.408536585365854
+C. Brown,Chaundee Brown,Wake Forest,Wake Forest,4,fg3a,0.274418604651163
+C. Felder,CJ Felder,Boston College,Boston College,2,fg3a,0.197452229299363
+C. Hunter,Chase Hunter,Clemson,Clemson,3,fg3a,0.511111111111111
+C. Keeling,Christian Keeling,North Carolina,UNC,3,fg3a,0.239583333333333
+C. Lykes,Chris Lykes,Miami,Miami,1,fg3a,0.41358024691358
+C. Morsell,Casey Morsell,Virginia,UVA,3,fg3a,0.512048192771084
+C. Scott,Curran Scott,Clemson,Clemson,3,fg3a,0.483221476510067
+C. Stanley,Cassius Stanley,Duke,Duke,4,fg3a,0.318518518518519
+C. Trapp,Clyde Trapp,Clemson,Clemson,3,fg3a,0.541666666666667
+C.J. Bryce,C.J. Bryce,NC State,NC State,4,fg3a,0.290625
+D. Daniels,Devon Daniels,NC State,NC State,4,fg3a,0.260479041916168
+D. Funderburk,DJ Funderburk,NC State,NC State,4,fg3a,0.0772532188841202
+D. Gak,Deng Gak,Miami,Miami,2,fg3a,0
+D. Goodwin,Dane Goodwin,Notre Dame,Notre Dame,3,fg3a,0.477508650519031
+D. Johnson,David Johnson,Louisville,Louisville,3,fg3a,0.159722222222222
+D. Olejniczak,Dominik Olejniczak,Florida State,Florida State,2,fg3a,0
+D. Perry,Darius Perry,Louisville,Louisville,3,fg3a,0.461538461538462
+D. Sutton,Dwayne Sutton,Louisville,Louisville,4,fg3a,0.431578947368421
+D. Thornton,Derryck Thornton,Boston College,Boston College,1,fg3a,0.357575757575758
+D. Vasiljevic,Dejan Vasiljevic,Miami,Miami,3,fg3a,0.627218934911243
+D. Vassell,Devin Vassell,Florida State,Florida State,4,fg3a,0.360544217687075
+E. Cole,Evan Cole,Georgia Tech,Georgia Tech,2,fg3a,0.206185567010309
+E. Hamilton,Eric Hamilton,Pittsburgh,Pitt,2,fg3a,0.0256410256410256
+E. Hughes,Elijah Hughes,Syracuse,Syracuse,1,fg3a,0.49247311827957
+G. Brooks,Garrison Brooks,North Carolina,UNC,4,fg3a,0.0182291666666667
+H. Beverly,Harlond Beverly,Miami,Miami,3,fg3a,0.304761904761905
+H. Cattoor,Hunter Cattoor,Virginia Tech,Virginia Tech,3,fg3a,0.778523489932886
+H. Tyson,Hunter Tyson,Clemson,Clemson,3,fg3a,0.65625
+I. Massoud,Ismael Massoud,Wake Forest,Wake Forest,3,fg3a,0.680327868852459
+I. Mucius,Isaiah Mucius,Wake Forest,Wake Forest,3,fg3a,0.240740740740741
+I. Wilkins,Isaiah Wilkins,Virginia Tech,Virginia Tech,3,fg3a,0.56390977443609
+I. Wong,Isaiah Wong,Miami,Miami,3,fg3a,0.268421052631579
+J. Alvarado,Jose Alvarado,Georgia Tech,Georgia Tech,1,fg3a,0.466417910447761
+J. Baehre,Jonathan Baehre,Clemson,Clemson,3,fg3a,1
+J. Baker,Joey Baker,Duke,Duke,3,fg3a,0.581967213114754
+J. Banks III,James Banks III,Georgia Tech,Georgia Tech,4,fg3a,0.00512820512820513
+J. Carey,Jalen Carey,Syracuse,Syracuse,3,fg3a,0
+J. Champagnie,Justin Champagnie,Pittsburgh,Pitt,4,fg3a,0.356125356125356
+J. Cone,Jalen Cone,Virginia Tech,Virginia Tech,3,fg3a,0.715846994535519
+J. DeLaurier,Javin DeLaurier,Duke,Duke,2,fg3a,0.0810810810810811
+J. Durham,Juwan Durham,Notre Dame,Notre Dame,2,fg3a,0.00588235294117647
+J. Francis,Jeremiah Francis,North Carolina,UNC,3,fg3a,0.303030303030303
+J. Girard III,Joseph Girard III,Syracuse,Syracuse,1,fg3a,0.615384615384615
+J. Goldwire,Jordan Goldwire,Duke,Duke,3,fg3a,0.403361344537815
+J. Hamilton,Jairus Hamilton,Boston College,Boston College,4,fg3a,0.442786069651741
+J. Hamilton,Jared Hamilton,Boston College,Boston College,3,fg3a,0.38150289017341
+J. Heath,Jay Heath,Boston College,Boston College,1,fg3a,0.488700564971751
+J. Hellems,Jericole Hellems,NC State,NC State,3,fg3a,0.403921568627451
+J. Huff,Jay Huff,Virginia,UVA,4,fg3a,0.28804347826087
+J. Mooney,John Mooney,Notre Dame,Notre Dame,4,fg3a,0.242494226327945
+J. Neath,Jahcobi Neath,Wake Forest,Wake Forest,3,fg3a,0.1953125
+J. Newman III,John Newman III,Clemson,Clemson,3,fg3a,0.38034188034188
+J. Nwora,Jordan Nwora,Louisville,Louisville,4,fg3a,0.43953488372093
+J. Pierce,Justin Pierce,North Carolina,UNC,3,fg3a,0.4375
+J. Rishwain,Julian Rishwain,Boston College,Boston College,3,fg3a,0.743801652892562
+J. Usher,Jordan Usher,Georgia Tech,Georgia Tech,4,fg3a,0.257309941520468
+J. White,Jack White,Duke,Duke,3,fg3a,0.65
+K. Clark,Kihei Clark,Virginia,UVA,1,fg3a,0.342857142857143
+K. McGusty,Kameron McGusty,Miami,Miami,1,fg3a,0.387959866220736
+K. Moore,Khalid Moore,Georgia Tech,Georgia Tech,3,fg3a,0.301204819277108
+K. Stattmann,Kody Stattmann,Virginia,UVA,3,fg3a,0.530612244897959
+K. Stone,Keith Stone,Miami,Miami,3,fg3a,0.415730337078652
+K. Williams,Kamari Williams,Boston College,Boston College,3,fg3a,0.666666666666667
+L. Black,Leaky Black,North Carolina,UNC,4,fg3a,0.285714285714286
+L. Kimble,Lamarr Kimble,Louisville,Louisville,3,fg3a,0.371794871794872
+L. Nolley II,Landers Nolley II,Virginia Tech,Virginia Tech,4,fg3a,0.452873563218391
+M. Bates,Manny Bates,NC State,NC State,2,fg3a,0
+M. Devoe,Michael Devoe,Georgia Tech,Georgia Tech,1,fg3a,0.382165605095541
+M. Diakite,Mamadi Diakite,Virginia,UVA,4,fg3a,0.17515923566879
+M. Dolezaj,Marek Dolezaj,Syracuse,Syracuse,4,fg3a,0.0319634703196347
+M. Hurt,Matthew Hurt,Duke,Duke,3,fg3a,0.473451327433628
+M. Johnson,Markell Johnson,NC State,NC State,1,fg3a,0.4375
+M. Osborne,Malik Osborne,Florida State,Florida State,3,fg3a,0.376623376623377
+M. Williams,Malik Williams,Louisville,Louisville,4,fg3a,0.202614379084967
+M. Wright,Moses Wright,Georgia Tech,Georgia Tech,4,fg3a,0.0935483870967742
+M.J. Walker,M.J. Walker,Florida State,Florida State,3,fg3a,0.532751091703057
+N. Alleyne,Nahiem Alleyne,Virginia Tech,Virginia Tech,3,fg3a,0.533632286995516
+N. Laszewski,Nate Laszewski,Notre Dame,Notre Dame,3,fg3a,0.661538461538462
+N. Popovic,Nik Popovic,Boston College,Boston College,4,fg3a,0.241935483870968
+O. Oguama,Ody Oguama,Wake Forest,Wake Forest,2,fg3a,0
+O. Sarr,Olivier Sarr,Wake Forest,Wake Forest,4,fg3a,0.0269230769230769
+P. Andree,Pat Andree,NC State,NC State,3,fg3a,0.767241379310345
+P. Hubb,Prentiss Hubb,Notre Dame,Notre Dame,1,fg3a,0.620786516853933
+P. Williams,Patrick Williams,Florida State,Florida State,4,fg3a,0.241545893719807
+P.J. Horne,P.J. Horne,Virginia Tech,Virginia Tech,3,fg3a,0.628140703517588
+Q. Guerrier,Quincy Guerrier,Syracuse,Syracuse,2,fg3a,0.154838709677419
+R. Carmody,Robby Carmody,Notre Dame,Notre Dame,2,fg3a,0.230769230769231
+R. Evans,Rayquan Evans,Florida State,Florida State,3,fg3a,0.25
+R. Gray,RaiQuan Gray,Florida State,Florida State,4,fg3a,0.277027027027027
+R. McMahon,Ryan McMahon,Louisville,Louisville,3,fg3a,0.8125
+R. Miller Jr.,Rodney Miller Jr.,Miami,Miami,2,fg3a,0.00625
+R. Murphy,Ryan Murphy,Pittsburgh,Pitt,3,fg3a,0.546728971962617
+R. Pflueger,Rex Pflueger,Notre Dame,Notre Dame,3,fg3a,0.631578947368421
+S. Enoch,Steven Enoch,Louisville,Louisville,4,fg3a,0.121076233183857
+S. Mitchell,Steffon Mitchell,Boston College,Boston College,4,fg3a,0.322033898305085
+S. Waardenburg,Sam Waardenburg,Miami,Miami,4,fg3a,0.351351351351351
+S. Williamson,Samuell Williamson,Louisville,Louisville,3,fg3a,0.234782608695652
+T. Brown,Terrell Brown,Pittsburgh,Pitt,2,fg3a,0.0336134453781513
+T. Forrest,Trent Forrest,Florida State,Florida State,1,fg3a,0.201413427561837
+T. Gibbs,TJ Gibbs,Notre Dame,Notre Dame,1,fg3a,0.535502958579882
+T. Johnson,Torry Johnson,Wake Forest,Wake Forest,3,fg3a,0.317073170731707
+T. Jones,Tre Jones,Duke,Duke,1,fg3a,0.281984334203655
+T. Mack,Tevin Mack,Clemson,Clemson,4,fg3a,0.510769230769231
+T. McGowens,Trey McGowens,Pittsburgh,Pitt,1,fg3a,0.385074626865672
+T. Radford,Tyrece Radford,Virginia Tech,Virginia Tech,2,fg3a,0.0434782608695652
+T. Woldetensae,Tomas Woldetensae,Virginia,UVA,3,fg3a,0.770053475935829
+V. Carey Jr.,Vernon Carey Jr.,Duke,Duke,4,fg3a,0.0608695652173913
+W. Bede,Wabissa Bede,Virginia Tech,Virginia Tech,1,fg3a,0.359756097560976
+W. Moore Jr.,Wendell Moore Jr.,Duke,Duke,4,fg3a,0.123376623376623
+X. Johnson,Xavier Johnson,Pittsburgh,Pitt,1,fg3a,0.274447949526814
+A. Bacot,Armando Bacot,North Carolina,UNC,4,rpg,8.16129032258065
+A. Dawes,Al-Amir Dawes,Clemson,Clemson,1,rpg,2.80645161290323
+A. Harris,Anthony Harris,North Carolina,UNC,3,rpg,1
+A. Hemenway,Alex Hemenway,Clemson,Clemson,3,rpg,0.866666666666667
+A. O'Connell,Alex O'Connell,Duke,Duke,3,rpg,2.24137931034483
+A. Platek,Andrew Platek,North Carolina,UNC,3,rpg,2.06666666666667
+A. Polite,Anthony Polite,Florida State,Florida State,3,rpg,2.93548387096774
+A. Price,Asanti Price,Georgia Tech,Georgia Tech,3,rpg,2.14285714285714
+A. Simms,Aamir Simms,Clemson,Clemson,4,rpg,7.23333333333333
+A. Toney,Au'Diese Toney,Pittsburgh,Pitt,4,rpg,4.76666666666667
+A. Walker,Anthony Walker,Miami,Miami,2,rpg,2.12
+A. White,Andrien White,Wake Forest,Wake Forest,3,rpg,3.64516129032258
+B. Beverly,Braxton Beverly,NC State,NC State,3,rpg,1.5625
+B. Boeheim,Buddy Boeheim,Syracuse,Syracuse,1,rpg,1.90625
+B. Childress,Brandon Childress,Wake Forest,Wake Forest,1,rpg,3
+B. Key,Braxton Key,Virginia,UVA,4,rpg,7.37037037037037
+B. Koprivica,Balsa Koprivica,Florida State,Florida State,2,rpg,2.40740740740741
+B. Parham,Bubba Parham,Georgia Tech,Georgia Tech,3,rpg,2.43333333333333
+B. Robinson,Brandon Robinson,North Carolina,UNC,1,rpg,3.16666666666667
+B. Sidibe,Bourama Sidibe,Syracuse,Syracuse,2,rpg,7.5625
+C. Anthony,Cole Anthony,North Carolina,UNC,1,rpg,5.90476190476191
+C. Brown,Chaundee Brown,Wake Forest,Wake Forest,4,rpg,6.47826086956522
+C. Felder,CJ Felder,Boston College,Boston College,2,rpg,3.90322580645161
+C. Hunter,Chase Hunter,Clemson,Clemson,3,rpg,1
+C. Keeling,Christian Keeling,North Carolina,UNC,3,rpg,2.75
+C. Lykes,Chris Lykes,Miami,Miami,1,rpg,2.11538461538462
+C. Morsell,Casey Morsell,Virginia,UVA,3,rpg,1.7
+C. Scott,Curran Scott,Clemson,Clemson,3,rpg,1.74193548387097
+C. Stanley,Cassius Stanley,Duke,Duke,4,rpg,4.86206896551724
+C. Trapp,Clyde Trapp,Clemson,Clemson,3,rpg,3.9047619047619
+C.J. Bryce,C.J. Bryce,NC State,NC State,4,rpg,6.25
+D. Daniels,Devon Daniels,NC State,NC State,4,rpg,5.28125
+D. Funderburk,DJ Funderburk,NC State,NC State,4,rpg,6.13333333333333
+D. Gak,Deng Gak,Miami,Miami,2,rpg,2
+D. Goodwin,Dane Goodwin,Notre Dame,Notre Dame,3,rpg,3.84375
+D. Johnson,David Johnson,Louisville,Louisville,3,rpg,2.81481481481482
+D. Olejniczak,Dominik Olejniczak,Florida State,Florida State,2,rpg,2.27586206896552
+D. Perry,Darius Perry,Louisville,Louisville,3,rpg,1.51612903225806
+D. Sutton,Dwayne Sutton,Louisville,Louisville,4,rpg,8.19354838709677
+D. Thornton,Derryck Thornton,Boston College,Boston College,1,rpg,2.82758620689655
+D. Vasiljevic,Dejan Vasiljevic,Miami,Miami,3,rpg,4.19354838709677
+D. Vassell,Devin Vassell,Florida State,Florida State,4,rpg,5.06666666666667
+E. Cole,Evan Cole,Georgia Tech,Georgia Tech,2,rpg,3.65384615384615
+E. Hamilton,Eric Hamilton,Pittsburgh,Pitt,2,rpg,4.3
+E. Hughes,Elijah Hughes,Syracuse,Syracuse,1,rpg,4.9375
+G. Brooks,Garrison Brooks,North Carolina,UNC,4,rpg,8.58064516129032
+H. Beverly,Harlond Beverly,Miami,Miami,3,rpg,2.29032258064516
+H. Cattoor,Hunter Cattoor,Virginia Tech,Virginia Tech,3,rpg,2.48275862068966
+H. Tyson,Hunter Tyson,Clemson,Clemson,3,rpg,2.96774193548387
+I. Massoud,Ismael Massoud,Wake Forest,Wake Forest,3,rpg,2.03225806451613
+I. Mucius,Isaiah Mucius,Wake Forest,Wake Forest,3,rpg,4.66666666666667
+I. Wilkins,Isaiah Wilkins,Virginia Tech,Virginia Tech,3,rpg,2.6
+I. Wong,Isaiah Wong,Miami,Miami,3,rpg,2.96774193548387
+J. Alvarado,Jose Alvarado,Georgia Tech,Georgia Tech,1,rpg,3.375
+J. Baehre,Jonathan Baehre,Clemson,Clemson,3,rpg,3.5
+J. Baker,Joey Baker,Duke,Duke,3,rpg,0.888888888888889
+J. Banks III,James Banks III,Georgia Tech,Georgia Tech,4,rpg,7.5
+J. Carey,Jalen Carey,Syracuse,Syracuse,3,rpg,3
+J. Champagnie,Justin Champagnie,Pittsburgh,Pitt,4,rpg,7.0625
+J. Cone,Jalen Cone,Virginia Tech,Virginia Tech,3,rpg,1.03333333333333
+J. DeLaurier,Javin DeLaurier,Duke,Duke,2,rpg,3.54838709677419
+J. Durham,Juwan Durham,Notre Dame,Notre Dame,2,rpg,4.59375
+J. Francis,Jeremiah Francis,North Carolina,UNC,3,rpg,1.25
+J. Girard III,Joseph Girard III,Syracuse,Syracuse,1,rpg,3.03125
+J. Goldwire,Jordan Goldwire,Duke,Duke,3,rpg,2.48387096774194
+J. Hamilton,Jairus Hamilton,Boston College,Boston College,4,rpg,4.25
+J. Hamilton,Jared Hamilton,Boston College,Boston College,3,rpg,2.48
+J. Heath,Jay Heath,Boston College,Boston College,1,rpg,3.35483870967742
+J. Hellems,Jericole Hellems,NC State,NC State,3,rpg,3.41935483870968
+J. Huff,Jay Huff,Virginia,UVA,4,rpg,6.2
+J. Mooney,John Mooney,Notre Dame,Notre Dame,4,rpg,12.7096774193548
+J. Neath,Jahcobi Neath,Wake Forest,Wake Forest,3,rpg,1.86666666666667
+J. Newman III,John Newman III,Clemson,Clemson,3,rpg,3.93548387096774
+J. Nwora,Jordan Nwora,Louisville,Louisville,4,rpg,7.70967741935484
+J. Pierce,Justin Pierce,North Carolina,UNC,3,rpg,3.90322580645161
+J. Rishwain,Julian Rishwain,Boston College,Boston College,3,rpg,1.93333333333333
+J. Usher,Jordan Usher,Georgia Tech,Georgia Tech,4,rpg,4.39130434782609
+J. White,Jack White,Duke,Duke,3,rpg,2.86666666666667
+K. Clark,Kihei Clark,Virginia,UVA,1,rpg,4.16666666666667
+K. McGusty,Kameron McGusty,Miami,Miami,1,rpg,3.96428571428571
+K. Moore,Khalid Moore,Georgia Tech,Georgia Tech,3,rpg,2.17857142857143
+K. Stattmann,Kody Stattmann,Virginia,UVA,3,rpg,2.41666666666667
+K. Stone,Keith Stone,Miami,Miami,3,rpg,4.61111111111111
+K. Williams,Kamari Williams,Boston College,Boston College,3,rpg,0.84
+L. Black,Leaky Black,North Carolina,UNC,4,rpg,5.03225806451613
+L. Kimble,Lamarr Kimble,Louisville,Louisville,3,rpg,1.51612903225806
+L. Nolley II,Landers Nolley II,Virginia Tech,Virginia Tech,4,rpg,5.56666666666667
+M. Bates,Manny Bates,NC State,NC State,2,rpg,4.03448275862069
+M. Devoe,Michael Devoe,Georgia Tech,Georgia Tech,1,rpg,4.03703703703704
+M. Diakite,Mamadi Diakite,Virginia,UVA,4,rpg,6.76666666666667
+M. Dolezaj,Marek Dolezaj,Syracuse,Syracuse,4,rpg,6.4375
+M. Hurt,Matthew Hurt,Duke,Duke,3,rpg,3.7741935483871
+M. Johnson,Markell Johnson,NC State,NC State,1,rpg,4.41935483870968
+M. Osborne,Malik Osborne,Florida State,Florida State,3,rpg,4.93548387096774
+M. Williams,Malik Williams,Louisville,Louisville,4,rpg,6.11538461538462
+M. Wright,Moses Wright,Georgia Tech,Georgia Tech,4,rpg,6.8
+M.J. Walker,M.J. Walker,Florida State,Florida State,3,rpg,1.69230769230769
+N. Alleyne,Nahiem Alleyne,Virginia Tech,Virginia Tech,3,rpg,2.4
+N. Laszewski,Nate Laszewski,Notre Dame,Notre Dame,3,rpg,4.625
+N. Popovic,Nik Popovic,Boston College,Boston College,4,rpg,5.2
+O. Oguama,Ody Oguama,Wake Forest,Wake Forest,2,rpg,3.87096774193548
+O. Sarr,Olivier Sarr,Wake Forest,Wake Forest,4,rpg,9
+P. Andree,Pat Andree,NC State,NC State,3,rpg,2.40740740740741
+P. Hubb,Prentiss Hubb,Notre Dame,Notre Dame,1,rpg,2.40625
+P. Williams,Patrick Williams,Florida State,Florida State,4,rpg,4
+P.J. Horne,P.J. Horne,Virginia Tech,Virginia Tech,3,rpg,4.1
+Q. Guerrier,Quincy Guerrier,Syracuse,Syracuse,2,rpg,5.3125
+R. Carmody,Robby Carmody,Notre Dame,Notre Dame,2,rpg,1.57142857142857
+R. Evans,Rayquan Evans,Florida State,Florida State,3,rpg,1.20689655172414
+R. Gray,RaiQuan Gray,Florida State,Florida State,4,rpg,3.82758620689655
+R. McMahon,Ryan McMahon,Louisville,Louisville,3,rpg,1.09677419354839
+R. Miller Jr.,Rodney Miller Jr.,Miami,Miami,2,rpg,5.5
+R. Murphy,Ryan Murphy,Pittsburgh,Pitt,3,rpg,1.93103448275862
+R. Pflueger,Rex Pflueger,Notre Dame,Notre Dame,3,rpg,3.58064516129032
+S. Enoch,Steven Enoch,Louisville,Louisville,4,rpg,5.58064516129032
+S. Mitchell,Steffon Mitchell,Boston College,Boston College,4,rpg,8.67741935483871
+S. Waardenburg,Sam Waardenburg,Miami,Miami,4,rpg,6.03333333333333
+S. Williamson,Samuell Williamson,Louisville,Louisville,3,rpg,2.48387096774194
+T. Brown,Terrell Brown,Pittsburgh,Pitt,2,rpg,3.53125
+T. Forrest,Trent Forrest,Florida State,Florida State,1,rpg,4.38709677419355
+T. Gibbs,TJ Gibbs,Notre Dame,Notre Dame,1,rpg,2.21875
+T. Johnson,Torry Johnson,Wake Forest,Wake Forest,3,rpg,1.85714285714286
+T. Jones,Tre Jones,Duke,Duke,1,rpg,4.24137931034483
+T. Mack,Tevin Mack,Clemson,Clemson,4,rpg,5.16129032258065
+T. McGowens,Trey McGowens,Pittsburgh,Pitt,1,rpg,3.375
+T. Radford,Tyrece Radford,Virginia Tech,Virginia Tech,2,rpg,6.23333333333333
+T. Woldetensae,Tomas Woldetensae,Virginia,UVA,3,rpg,2.17241379310345
+V. Carey Jr.,Vernon Carey Jr.,Duke,Duke,4,rpg,8.7741935483871
+W. Bede,Wabissa Bede,Virginia Tech,Virginia Tech,1,rpg,3.8
+W. Moore Jr.,Wendell Moore Jr.,Duke,Duke,4,rpg,4.24
+X. Johnson,Xavier Johnson,Pittsburgh,Pitt,1,rpg,3.71875
+A. Bacot,Armando Bacot,North Carolina,UNC,4,apg,1.25806451612903
+A. Dawes,Al-Amir Dawes,Clemson,Clemson,1,apg,2.45161290322581
+A. Harris,Anthony Harris,North Carolina,UNC,3,apg,0.6
+A. Hemenway,Alex Hemenway,Clemson,Clemson,3,apg,0.4
+A. O'Connell,Alex O'Connell,Duke,Duke,3,apg,0.758620689655172
+A. Platek,Andrew Platek,North Carolina,UNC,3,apg,1.4
+A. Polite,Anthony Polite,Florida State,Florida State,3,apg,1.12903225806452
+A. Price,Asanti Price,Georgia Tech,Georgia Tech,3,apg,0.714285714285714
+A. Simms,Aamir Simms,Clemson,Clemson,4,apg,2.6
+A. Toney,Au'Diese Toney,Pittsburgh,Pitt,4,apg,1.16666666666667
+A. Walker,Anthony Walker,Miami,Miami,2,apg,0.2
+A. White,Andrien White,Wake Forest,Wake Forest,3,apg,1.38709677419355
+B. Beverly,Braxton Beverly,NC State,NC State,3,apg,1.15625
+B. Boeheim,Buddy Boeheim,Syracuse,Syracuse,1,apg,2.15625
+B. Childress,Brandon Childress,Wake Forest,Wake Forest,1,apg,4.6
+B. Key,Braxton Key,Virginia,UVA,4,apg,1.81481481481482
+B. Koprivica,Balsa Koprivica,Florida State,Florida State,2,apg,0.296296296296296
+B. Parham,Bubba Parham,Georgia Tech,Georgia Tech,3,apg,1.8
+B. Robinson,Brandon Robinson,North Carolina,UNC,1,apg,2.375
+B. Sidibe,Bourama Sidibe,Syracuse,Syracuse,2,apg,0.1875
+C. Anthony,Cole Anthony,North Carolina,UNC,1,apg,4.0952380952381
+C. Brown,Chaundee Brown,Wake Forest,Wake Forest,4,apg,1.39130434782609
+C. Felder,CJ Felder,Boston College,Boston College,2,apg,0.645161290322581
+C. Hunter,Chase Hunter,Clemson,Clemson,3,apg,1.55555555555556
+C. Keeling,Christian Keeling,North Carolina,UNC,3,apg,0.59375
+C. Lykes,Chris Lykes,Miami,Miami,1,apg,2.38461538461538
+C. Morsell,Casey Morsell,Virginia,UVA,3,apg,0.733333333333333
+C. Scott,Curran Scott,Clemson,Clemson,3,apg,1.41935483870968
+C. Stanley,Cassius Stanley,Duke,Duke,4,apg,1.03448275862069
+C. Trapp,Clyde Trapp,Clemson,Clemson,3,apg,2.52380952380952
+C.J. Bryce,C.J. Bryce,NC State,NC State,4,apg,2.10714285714286
+D. Daniels,Devon Daniels,NC State,NC State,4,apg,2.21875
+D. Funderburk,DJ Funderburk,NC State,NC State,4,apg,0.266666666666667
+D. Gak,Deng Gak,Miami,Miami,2,apg,0.142857142857143
+D. Goodwin,Dane Goodwin,Notre Dame,Notre Dame,3,apg,1.3125
+D. Johnson,David Johnson,Louisville,Louisville,3,apg,2.77777777777778
+D. Olejniczak,Dominik Olejniczak,Florida State,Florida State,2,apg,0.137931034482759
+D. Perry,Darius Perry,Louisville,Louisville,3,apg,2.54838709677419
+D. Sutton,Dwayne Sutton,Louisville,Louisville,4,apg,1.74193548387097
+D. Thornton,Derryck Thornton,Boston College,Boston College,1,apg,3.41379310344828
+D. Vasiljevic,Dejan Vasiljevic,Miami,Miami,3,apg,1.03225806451613
+D. Vassell,Devin Vassell,Florida State,Florida State,4,apg,1.63333333333333
+E. Cole,Evan Cole,Georgia Tech,Georgia Tech,2,apg,0.346153846153846
+E. Hamilton,Eric Hamilton,Pittsburgh,Pitt,2,apg,0.166666666666667
+E. Hughes,Elijah Hughes,Syracuse,Syracuse,1,apg,3.40625
+G. Brooks,Garrison Brooks,North Carolina,UNC,4,apg,1.87096774193548
+H. Beverly,Harlond Beverly,Miami,Miami,3,apg,2.29032258064516
+H. Cattoor,Hunter Cattoor,Virginia Tech,Virginia Tech,3,apg,1.10344827586207
+H. Tyson,Hunter Tyson,Clemson,Clemson,3,apg,0.354838709677419
+I. Massoud,Ismael Massoud,Wake Forest,Wake Forest,3,apg,0.290322580645161
+I. Mucius,Isaiah Mucius,Wake Forest,Wake Forest,3,apg,0.933333333333333
+I. Wilkins,Isaiah Wilkins,Virginia Tech,Virginia Tech,3,apg,1.26666666666667
+I. Wong,Isaiah Wong,Miami,Miami,3,apg,1.03225806451613
+J. Alvarado,Jose Alvarado,Georgia Tech,Georgia Tech,1,apg,4
+J. Baehre,Jonathan Baehre,Clemson,Clemson,3,apg,0
+J. Baker,Joey Baker,Duke,Duke,3,apg,0.777777777777778
+J. Banks III,James Banks III,Georgia Tech,Georgia Tech,4,apg,0.966666666666667
+J. Carey,Jalen Carey,Syracuse,Syracuse,3,apg,0.5
+J. Champagnie,Justin Champagnie,Pittsburgh,Pitt,4,apg,0.65625
+J. Cone,Jalen Cone,Virginia Tech,Virginia Tech,3,apg,0.666666666666667
+J. DeLaurier,Javin DeLaurier,Duke,Duke,2,apg,0.516129032258065
+J. Durham,Juwan Durham,Notre Dame,Notre Dame,2,apg,0.78125
+J. Francis,Jeremiah Francis,North Carolina,UNC,3,apg,1.625
+J. Girard III,Joseph Girard III,Syracuse,Syracuse,1,apg,3.53125
+J. Goldwire,Jordan Goldwire,Duke,Duke,3,apg,2.25806451612903
+J. Hamilton,Jairus Hamilton,Boston College,Boston College,4,apg,0.916666666666667
+J. Hamilton,Jared Hamilton,Boston College,Boston College,3,apg,0.92
+J. Heath,Jay Heath,Boston College,Boston College,1,apg,2.12903225806452
+J. Hellems,Jericole Hellems,NC State,NC State,3,apg,1.03225806451613
+J. Huff,Jay Huff,Virginia,UVA,4,apg,0.8
+J. Mooney,John Mooney,Notre Dame,Notre Dame,4,apg,1.70967741935484
+J. Neath,Jahcobi Neath,Wake Forest,Wake Forest,3,apg,2.23333333333333
+J. Newman III,John Newman III,Clemson,Clemson,3,apg,2.19354838709677
+J. Nwora,Jordan Nwora,Louisville,Louisville,4,apg,1.29032258064516
+J. Pierce,Justin Pierce,North Carolina,UNC,3,apg,0.903225806451613
+J. Rishwain,Julian Rishwain,Boston College,Boston College,3,apg,0.933333333333333
+J. Usher,Jordan Usher,Georgia Tech,Georgia Tech,4,apg,2.1304347826087
+J. White,Jack White,Duke,Duke,3,apg,0.766666666666667
+K. Clark,Kihei Clark,Virginia,UVA,1,apg,5.86666666666667
+K. McGusty,Kameron McGusty,Miami,Miami,1,apg,1.57142857142857
+K. Moore,Khalid Moore,Georgia Tech,Georgia Tech,3,apg,1.10714285714286
+K. Stattmann,Kody Stattmann,Virginia,UVA,3,apg,0.666666666666667
+K. Stone,Keith Stone,Miami,Miami,3,apg,0.944444444444444
+K. Williams,Kamari Williams,Boston College,Boston College,3,apg,0.28
+L. Black,Leaky Black,North Carolina,UNC,4,apg,2.48387096774194
+L. Kimble,Lamarr Kimble,Louisville,Louisville,3,apg,2.70967741935484
+L. Nolley II,Landers Nolley II,Virginia Tech,Virginia Tech,4,apg,2.36666666666667
+M. Bates,Manny Bates,NC State,NC State,2,apg,0.275862068965517
+M. Devoe,Michael Devoe,Georgia Tech,Georgia Tech,1,apg,3.48148148148148
+M. Diakite,Mamadi Diakite,Virginia,UVA,4,apg,0.6
+M. Dolezaj,Marek Dolezaj,Syracuse,Syracuse,4,apg,2.75
+M. Hurt,Matthew Hurt,Duke,Duke,3,apg,0.870967741935484
+M. Johnson,Markell Johnson,NC State,NC State,1,apg,6.7741935483871
+M. Osborne,Malik Osborne,Florida State,Florida State,3,apg,0.451612903225806
+M. Williams,Malik Williams,Louisville,Louisville,4,apg,0.346153846153846
+M. Wright,Moses Wright,Georgia Tech,Georgia Tech,4,apg,0.866666666666667
+M.J. Walker,M.J. Walker,Florida State,Florida State,3,apg,1.46153846153846
+N. Alleyne,Nahiem Alleyne,Virginia Tech,Virginia Tech,3,apg,1.43333333333333
+N. Laszewski,Nate Laszewski,Notre Dame,Notre Dame,3,apg,0.5
+N. Popovic,Nik Popovic,Boston College,Boston College,4,apg,1.55
+O. Oguama,Ody Oguama,Wake Forest,Wake Forest,2,apg,0.0967741935483871
+O. Sarr,Olivier Sarr,Wake Forest,Wake Forest,4,apg,0.933333333333333
+P. Andree,Pat Andree,NC State,NC State,3,apg,0.185185185185185
+P. Hubb,Prentiss Hubb,Notre Dame,Notre Dame,1,apg,5.0625
+P. Williams,Patrick Williams,Florida State,Florida State,4,apg,1
+P.J. Horne,P.J. Horne,Virginia Tech,Virginia Tech,3,apg,0.366666666666667
+Q. Guerrier,Quincy Guerrier,Syracuse,Syracuse,2,apg,0.59375
+R. Carmody,Robby Carmody,Notre Dame,Notre Dame,2,apg,0.571428571428571
+R. Evans,Rayquan Evans,Florida State,Florida State,3,apg,1.44827586206897
+R. Gray,RaiQuan Gray,Florida State,Florida State,4,apg,1.37931034482759
+R. McMahon,Ryan McMahon,Louisville,Louisville,3,apg,1.83870967741935
+R. Miller Jr.,Rodney Miller Jr.,Miami,Miami,2,apg,0.466666666666667
+R. Murphy,Ryan Murphy,Pittsburgh,Pitt,3,apg,1.10344827586207
+R. Pflueger,Rex Pflueger,Notre Dame,Notre Dame,3,apg,3.35483870967742
+S. Enoch,Steven Enoch,Louisville,Louisville,4,apg,0.419354838709677
+S. Mitchell,Steffon Mitchell,Boston College,Boston College,4,apg,3.09677419354839
+S. Waardenburg,Sam Waardenburg,Miami,Miami,4,apg,1.03333333333333
+S. Williamson,Samuell Williamson,Louisville,Louisville,3,apg,0.580645161290323
+T. Brown,Terrell Brown,Pittsburgh,Pitt,2,apg,0.15625
+T. Forrest,Trent Forrest,Florida State,Florida State,1,apg,4
+T. Gibbs,TJ Gibbs,Notre Dame,Notre Dame,1,apg,3.25
+T. Johnson,Torry Johnson,Wake Forest,Wake Forest,3,apg,1.14285714285714
+T. Jones,Tre Jones,Duke,Duke,1,apg,6.37931034482759
+T. Mack,Tevin Mack,Clemson,Clemson,4,apg,0.935483870967742
+T. McGowens,Trey McGowens,Pittsburgh,Pitt,1,apg,3.625
+T. Radford,Tyrece Radford,Virginia Tech,Virginia Tech,2,apg,1.66666666666667
+T. Woldetensae,Tomas Woldetensae,Virginia,UVA,3,apg,1.13793103448276
+V. Carey Jr.,Vernon Carey Jr.,Duke,Duke,4,apg,0.967741935483871
+W. Bede,Wabissa Bede,Virginia Tech,Virginia Tech,1,apg,5.53333333333333
+W. Moore Jr.,Wendell Moore Jr.,Duke,Duke,4,apg,1.88
+X. Johnson,Xavier Johnson,Pittsburgh,Pitt,1,apg,4.90625
+A. Bacot,Armando Bacot,North Carolina,UNC,4,tog,1.67741935483871
+A. Dawes,Al-Amir Dawes,Clemson,Clemson,1,tog,2.51612903225806
+A. Harris,Anthony Harris,North Carolina,UNC,3,tog,0.4
+A. Hemenway,Alex Hemenway,Clemson,Clemson,3,tog,0.4
+A. O'Connell,Alex O'Connell,Duke,Duke,3,tog,0.758620689655172
+A. Platek,Andrew Platek,North Carolina,UNC,3,tog,0.633333333333333
+A. Polite,Anthony Polite,Florida State,Florida State,3,tog,1.16129032258065
+A. Price,Asanti Price,Georgia Tech,Georgia Tech,3,tog,1.21428571428571
+A. Simms,Aamir Simms,Clemson,Clemson,4,tog,2.2
+A. Toney,Au'Diese Toney,Pittsburgh,Pitt,4,tog,1.16666666666667
+A. Walker,Anthony Walker,Miami,Miami,2,tog,0.6
+A. White,Andrien White,Wake Forest,Wake Forest,3,tog,1.90322580645161
+B. Beverly,Braxton Beverly,NC State,NC State,3,tog,0.78125
+B. Boeheim,Buddy Boeheim,Syracuse,Syracuse,1,tog,1.46875
+B. Childress,Brandon Childress,Wake Forest,Wake Forest,1,tog,2.93333333333333
+B. Key,Braxton Key,Virginia,UVA,4,tog,1.77777777777778
+B. Koprivica,Balsa Koprivica,Florida State,Florida State,2,tog,0.62962962962963
+B. Parham,Bubba Parham,Georgia Tech,Georgia Tech,3,tog,1.4
+B. Robinson,Brandon Robinson,North Carolina,UNC,1,tog,1.625
+B. Sidibe,Bourama Sidibe,Syracuse,Syracuse,2,tog,0.9375
+C. Anthony,Cole Anthony,North Carolina,UNC,1,tog,3.47619047619048
+C. Brown,Chaundee Brown,Wake Forest,Wake Forest,4,tog,1.56521739130435
+C. Felder,CJ Felder,Boston College,Boston College,2,tog,1.25806451612903
+C. Hunter,Chase Hunter,Clemson,Clemson,3,tog,1.33333333333333
+C. Keeling,Christian Keeling,North Carolina,UNC,3,tog,1.0625
+C. Lykes,Chris Lykes,Miami,Miami,1,tog,2.07692307692308
+C. Morsell,Casey Morsell,Virginia,UVA,3,tog,0.866666666666667
+C. Scott,Curran Scott,Clemson,Clemson,3,tog,1.09677419354839
+C. Stanley,Cassius Stanley,Duke,Duke,4,tog,1.89655172413793
+C. Trapp,Clyde Trapp,Clemson,Clemson,3,tog,1.66666666666667
+C.J. Bryce,C.J. Bryce,NC State,NC State,4,tog,2.21428571428571
+D. Daniels,Devon Daniels,NC State,NC State,4,tog,2.0625
+D. Funderburk,DJ Funderburk,NC State,NC State,4,tog,1.43333333333333
+D. Gak,Deng Gak,Miami,Miami,2,tog,0.285714285714286
+D. Goodwin,Dane Goodwin,Notre Dame,Notre Dame,3,tog,0.8125
+D. Johnson,David Johnson,Louisville,Louisville,3,tog,1.88888888888889
+D. Olejniczak,Dominik Olejniczak,Florida State,Florida State,2,tog,0.896551724137931
+D. Perry,Darius Perry,Louisville,Louisville,3,tog,1.35483870967742
+D. Sutton,Dwayne Sutton,Louisville,Louisville,4,tog,1
+D. Thornton,Derryck Thornton,Boston College,Boston College,1,tog,3.3448275862069
+D. Vasiljevic,Dejan Vasiljevic,Miami,Miami,3,tog,0.870967741935484
+D. Vassell,Devin Vassell,Florida State,Florida State,4,tog,0.766666666666667
+E. Cole,Evan Cole,Georgia Tech,Georgia Tech,2,tog,0.769230769230769
+E. Hamilton,Eric Hamilton,Pittsburgh,Pitt,2,tog,0.633333333333333
+E. Hughes,Elijah Hughes,Syracuse,Syracuse,1,tog,2.28125
+G. Brooks,Garrison Brooks,North Carolina,UNC,4,tog,2.03225806451613
+H. Beverly,Harlond Beverly,Miami,Miami,3,tog,2.2258064516129
+H. Cattoor,Hunter Cattoor,Virginia Tech,Virginia Tech,3,tog,0.551724137931035
+H. Tyson,Hunter Tyson,Clemson,Clemson,3,tog,0.483870967741936
+I. Massoud,Ismael Massoud,Wake Forest,Wake Forest,3,tog,0.741935483870968
+I. Mucius,Isaiah Mucius,Wake Forest,Wake Forest,3,tog,1.3
+I. Wilkins,Isaiah Wilkins,Virginia Tech,Virginia Tech,3,tog,0.5
+I. Wong,Isaiah Wong,Miami,Miami,3,tog,1.67741935483871
+J. Alvarado,Jose Alvarado,Georgia Tech,Georgia Tech,1,tog,2.66666666666667
+J. Baehre,Jonathan Baehre,Clemson,Clemson,3,tog,3
+J. Baker,Joey Baker,Duke,Duke,3,tog,0.555555555555556
+J. Banks III,James Banks III,Georgia Tech,Georgia Tech,4,tog,1.86666666666667
+J. Carey,Jalen Carey,Syracuse,Syracuse,3,tog,1.5
+J. Champagnie,Justin Champagnie,Pittsburgh,Pitt,4,tog,1
+J. Cone,Jalen Cone,Virginia Tech,Virginia Tech,3,tog,0.966666666666667
+J. DeLaurier,Javin DeLaurier,Duke,Duke,2,tog,0.741935483870968
+J. Durham,Juwan Durham,Notre Dame,Notre Dame,2,tog,1
+J. Francis,Jeremiah Francis,North Carolina,UNC,3,tog,1.1875
+J. Girard III,Joseph Girard III,Syracuse,Syracuse,1,tog,1.875
+J. Goldwire,Jordan Goldwire,Duke,Duke,3,tog,0.870967741935484
+J. Hamilton,Jairus Hamilton,Boston College,Boston College,4,tog,1.58333333333333
+J. Hamilton,Jared Hamilton,Boston College,Boston College,3,tog,0.72
+J. Heath,Jay Heath,Boston College,Boston College,1,tog,2.2258064516129
+J. Hellems,Jericole Hellems,NC State,NC State,3,tog,1.35483870967742
+J. Huff,Jay Huff,Virginia,UVA,4,tog,1.06666666666667
+J. Mooney,John Mooney,Notre Dame,Notre Dame,4,tog,1.32258064516129
+J. Neath,Jahcobi Neath,Wake Forest,Wake Forest,3,tog,1.76666666666667
+J. Newman III,John Newman III,Clemson,Clemson,3,tog,1.32258064516129
+J. Nwora,Jordan Nwora,Louisville,Louisville,4,tog,2.09677419354839
+J. Pierce,Justin Pierce,North Carolina,UNC,3,tog,0.806451612903226
+J. Rishwain,Julian Rishwain,Boston College,Boston College,3,tog,1.2
+J. Usher,Jordan Usher,Georgia Tech,Georgia Tech,4,tog,2.52173913043478
+J. White,Jack White,Duke,Duke,3,tog,0.733333333333333
+K. Clark,Kihei Clark,Virginia,UVA,1,tog,3.5
+K. McGusty,Kameron McGusty,Miami,Miami,1,tog,2.28571428571429
+K. Moore,Khalid Moore,Georgia Tech,Georgia Tech,3,tog,1.25
+K. Stattmann,Kody Stattmann,Virginia,UVA,3,tog,0.875
+K. Stone,Keith Stone,Miami,Miami,3,tog,0.944444444444444
+K. Williams,Kamari Williams,Boston College,Boston College,3,tog,0.32
+L. Black,Leaky Black,North Carolina,UNC,4,tog,1.74193548387097
+L. Kimble,Lamarr Kimble,Louisville,Louisville,3,tog,1.51612903225806
+L. Nolley II,Landers Nolley II,Virginia Tech,Virginia Tech,4,tog,2.86666666666667
+M. Bates,Manny Bates,NC State,NC State,2,tog,0.586206896551724
+M. Devoe,Michael Devoe,Georgia Tech,Georgia Tech,1,tog,3.44444444444444
+M. Diakite,Mamadi Diakite,Virginia,UVA,4,tog,2.13333333333333
+M. Dolezaj,Marek Dolezaj,Syracuse,Syracuse,4,tog,1.9375
+M. Hurt,Matthew Hurt,Duke,Duke,3,tog,0.838709677419355
+M. Johnson,Markell Johnson,NC State,NC State,1,tog,3.25806451612903
+M. Osborne,Malik Osborne,Florida State,Florida State,3,tog,0.645161290322581
+M. Williams,Malik Williams,Louisville,Louisville,4,tog,0.653846153846154
+M. Wright,Moses Wright,Georgia Tech,Georgia Tech,4,tog,2.6
+M.J. Walker,M.J. Walker,Florida State,Florida State,3,tog,1.46153846153846
+N. Alleyne,Nahiem Alleyne,Virginia Tech,Virginia Tech,3,tog,0.833333333333333
+N. Laszewski,Nate Laszewski,Notre Dame,Notre Dame,3,tog,0.59375
+N. Popovic,Nik Popovic,Boston College,Boston College,4,tog,1.95
+O. Oguama,Ody Oguama,Wake Forest,Wake Forest,2,tog,0.806451612903226
+O. Sarr,Olivier Sarr,Wake Forest,Wake Forest,4,tog,1.56666666666667
+P. Andree,Pat Andree,NC State,NC State,3,tog,0.37037037037037
+P. Hubb,Prentiss Hubb,Notre Dame,Notre Dame,1,tog,2.65625
+P. Williams,Patrick Williams,Florida State,Florida State,4,tog,1.72413793103448
+P.J. Horne,P.J. Horne,Virginia Tech,Virginia Tech,3,tog,0.9
+Q. Guerrier,Quincy Guerrier,Syracuse,Syracuse,2,tog,1.34375
+R. Carmody,Robby Carmody,Notre Dame,Notre Dame,2,tog,0.857142857142857
+R. Evans,Rayquan Evans,Florida State,Florida State,3,tog,0.827586206896552
+R. Gray,RaiQuan Gray,Florida State,Florida State,4,tog,1.75862068965517
+R. McMahon,Ryan McMahon,Louisville,Louisville,3,tog,0.967741935483871
+R. Miller Jr.,Rodney Miller Jr.,Miami,Miami,2,tog,0.7
+R. Murphy,Ryan Murphy,Pittsburgh,Pitt,3,tog,1.20689655172414
+R. Pflueger,Rex Pflueger,Notre Dame,Notre Dame,3,tog,1.58064516129032
+S. Enoch,Steven Enoch,Louisville,Louisville,4,tog,1.35483870967742
+S. Mitchell,Steffon Mitchell,Boston College,Boston College,4,tog,1.61290322580645
+S. Waardenburg,Sam Waardenburg,Miami,Miami,4,tog,1.13333333333333
+S. Williamson,Samuell Williamson,Louisville,Louisville,3,tog,1.12903225806452
+T. Brown,Terrell Brown,Pittsburgh,Pitt,2,tog,0.8125
+T. Forrest,Trent Forrest,Florida State,Florida State,1,tog,2.96774193548387
+T. Gibbs,TJ Gibbs,Notre Dame,Notre Dame,1,tog,1.21875
+T. Johnson,Torry Johnson,Wake Forest,Wake Forest,3,tog,1.53571428571429
+T. Jones,Tre Jones,Duke,Duke,1,tog,2.68965517241379
+T. Mack,Tevin Mack,Clemson,Clemson,4,tog,1.16129032258065
+T. McGowens,Trey McGowens,Pittsburgh,Pitt,1,tog,2.875
+T. Radford,Tyrece Radford,Virginia Tech,Virginia Tech,2,tog,0.8
+T. Woldetensae,Tomas Woldetensae,Virginia,UVA,3,tog,1.03448275862069
+V. Carey Jr.,Vernon Carey Jr.,Duke,Duke,4,tog,2.03225806451613
+W. Bede,Wabissa Bede,Virginia Tech,Virginia Tech,1,tog,1.7
+W. Moore Jr.,Wendell Moore Jr.,Duke,Duke,4,tog,2.44
+X. Johnson,Xavier Johnson,Pittsburgh,Pitt,1,tog,3.46875
+A. Bacot,Armando Bacot,North Carolina,UNC,4,ppg,9.54838709677419
+A. Dawes,Al-Amir Dawes,Clemson,Clemson,1,ppg,9
+A. Harris,Anthony Harris,North Carolina,UNC,3,ppg,6.8
+A. Hemenway,Alex Hemenway,Clemson,Clemson,3,ppg,4.8
+A. O'Connell,Alex O'Connell,Duke,Duke,3,ppg,5.24137931034483
+A. Platek,Andrew Platek,North Carolina,UNC,3,ppg,3.73333333333333
+A. Polite,Anthony Polite,Florida State,Florida State,3,ppg,5.7741935483871
+A. Price,Asanti Price,Georgia Tech,Georgia Tech,3,ppg,2.85714285714286
+A. Simms,Aamir Simms,Clemson,Clemson,4,ppg,13.0333333333333
+A. Toney,Au'Diese Toney,Pittsburgh,Pitt,4,ppg,9.6
+A. Walker,Anthony Walker,Miami,Miami,2,ppg,3.28
+A. White,Andrien White,Wake Forest,Wake Forest,3,ppg,9
+B. Beverly,Braxton Beverly,NC State,NC State,3,ppg,7.09375
+B. Boeheim,Buddy Boeheim,Syracuse,Syracuse,1,ppg,15.34375
+B. Childress,Brandon Childress,Wake Forest,Wake Forest,1,ppg,15.5666666666667
+B. Key,Braxton Key,Virginia,UVA,4,ppg,9.85185185185185
+B. Koprivica,Balsa Koprivica,Florida State,Florida State,2,ppg,4.7037037037037
+B. Parham,Bubba Parham,Georgia Tech,Georgia Tech,3,ppg,5.13333333333333
+B. Robinson,Brandon Robinson,North Carolina,UNC,1,ppg,11.7916666666667
+B. Sidibe,Bourama Sidibe,Syracuse,Syracuse,2,ppg,6.03125
+C. Anthony,Cole Anthony,North Carolina,UNC,1,ppg,18.047619047619
+C. Brown,Chaundee Brown,Wake Forest,Wake Forest,4,ppg,12.1304347826087
+C. Felder,CJ Felder,Boston College,Boston College,2,ppg,5.64516129032258
+C. Hunter,Chase Hunter,Clemson,Clemson,3,ppg,5.33333333333333
+C. Keeling,Christian Keeling,North Carolina,UNC,3,ppg,6.34375
+C. Lykes,Chris Lykes,Miami,Miami,1,ppg,15.4230769230769
+C. Morsell,Casey Morsell,Virginia,UVA,3,ppg,3.96666666666667
+C. Scott,Curran Scott,Clemson,Clemson,3,ppg,5.70967741935484
+C. Stanley,Cassius Stanley,Duke,Duke,4,ppg,12.551724137931
+C. Trapp,Clyde Trapp,Clemson,Clemson,3,ppg,6
+C.J. Bryce,C.J. Bryce,NC State,NC State,4,ppg,13.3214285714286
+D. Daniels,Devon Daniels,NC State,NC State,4,ppg,12.6875
+D. Funderburk,DJ Funderburk,NC State,NC State,4,ppg,12.7666666666667
+D. Gak,Deng Gak,Miami,Miami,2,ppg,1.71428571428571
+D. Goodwin,Dane Goodwin,Notre Dame,Notre Dame,3,ppg,10.84375
+D. Johnson,David Johnson,Louisville,Louisville,3,ppg,6.33333333333333
+D. Olejniczak,Dominik Olejniczak,Florida State,Florida State,2,ppg,4.24137931034483
+D. Perry,Darius Perry,Louisville,Louisville,3,ppg,5.2258064516129
+D. Sutton,Dwayne Sutton,Louisville,Louisville,4,ppg,9.09677419354839
+D. Thornton,Derryck Thornton,Boston College,Boston College,1,ppg,12.6551724137931
+D. Vasiljevic,Dejan Vasiljevic,Miami,Miami,3,ppg,13.1935483870968
+D. Vassell,Devin Vassell,Florida State,Florida State,4,ppg,12.6666666666667
+E. Cole,Evan Cole,Georgia Tech,Georgia Tech,2,ppg,4.46153846153846
+E. Hamilton,Eric Hamilton,Pittsburgh,Pitt,2,ppg,5.26666666666667
+E. Hughes,Elijah Hughes,Syracuse,Syracuse,1,ppg,19.03125
+G. Brooks,Garrison Brooks,North Carolina,UNC,4,ppg,17.1935483870968
+H. Beverly,Harlond Beverly,Miami,Miami,3,ppg,7.2258064516129
+H. Cattoor,Hunter Cattoor,Virginia Tech,Virginia Tech,3,ppg,6.03448275862069
+H. Tyson,Hunter Tyson,Clemson,Clemson,3,ppg,5.48387096774194
+I. Massoud,Ismael Massoud,Wake Forest,Wake Forest,3,ppg,4.80645161290323
+I. Mucius,Isaiah Mucius,Wake Forest,Wake Forest,3,ppg,7.33333333333333
+I. Wilkins,Isaiah Wilkins,Virginia Tech,Virginia Tech,3,ppg,4
+I. Wong,Isaiah Wong,Miami,Miami,3,ppg,7.74193548387097
+J. Alvarado,Jose Alvarado,Georgia Tech,Georgia Tech,1,ppg,14.375
+J. Baehre,Jonathan Baehre,Clemson,Clemson,3,ppg,0
+J. Baker,Joey Baker,Duke,Duke,3,ppg,5.14814814814815
+J. Banks III,James Banks III,Georgia Tech,Georgia Tech,4,ppg,9.36666666666667
+J. Carey,Jalen Carey,Syracuse,Syracuse,3,ppg,1.5
+J. Champagnie,Justin Champagnie,Pittsburgh,Pitt,4,ppg,12.53125
+J. Cone,Jalen Cone,Virginia Tech,Virginia Tech,3,ppg,7.93333333333333
+J. DeLaurier,Javin DeLaurier,Duke,Duke,2,ppg,3.51612903225806
+J. Durham,Juwan Durham,Notre Dame,Notre Dame,2,ppg,7.78125
+J. Francis,Jeremiah Francis,North Carolina,UNC,3,ppg,3.25
+J. Girard III,Joseph Girard III,Syracuse,Syracuse,1,ppg,12.4375
+J. Goldwire,Jordan Goldwire,Duke,Duke,3,ppg,4.74193548387097
+J. Hamilton,Jairus Hamilton,Boston College,Boston College,4,ppg,9.5
+J. Hamilton,Jared Hamilton,Boston College,Boston College,3,ppg,7.76
+J. Heath,Jay Heath,Boston College,Boston College,1,ppg,13.0967741935484
+J. Hellems,Jericole Hellems,NC State,NC State,3,ppg,9.45161290322581
+J. Huff,Jay Huff,Virginia,UVA,4,ppg,8.53333333333333
+J. Mooney,John Mooney,Notre Dame,Notre Dame,4,ppg,16.1935483870968
+J. Neath,Jahcobi Neath,Wake Forest,Wake Forest,3,ppg,5.26666666666667
+J. Newman III,John Newman III,Clemson,Clemson,3,ppg,9.48387096774194
+J. Nwora,Jordan Nwora,Louisville,Louisville,4,ppg,18
+J. Pierce,Justin Pierce,North Carolina,UNC,3,ppg,4.87096774193548
+J. Rishwain,Julian Rishwain,Boston College,Boston College,3,ppg,4
+J. Usher,Jordan Usher,Georgia Tech,Georgia Tech,4,ppg,8.17391304347826
+J. White,Jack White,Duke,Duke,3,ppg,3.06666666666667
+K. Clark,Kihei Clark,Virginia,UVA,1,ppg,10.8
+K. McGusty,Kameron McGusty,Miami,Miami,1,ppg,12.4642857142857
+K. Moore,Khalid Moore,Georgia Tech,Georgia Tech,3,ppg,3.14285714285714
+K. Stattmann,Kody Stattmann,Virginia,UVA,3,ppg,3.58333333333333
+K. Stone,Keith Stone,Miami,Miami,3,ppg,4.94444444444445
+K. Williams,Kamari Williams,Boston College,Boston College,3,ppg,2.48
+L. Black,Leaky Black,North Carolina,UNC,4,ppg,6.64516129032258
+L. Kimble,Lamarr Kimble,Louisville,Louisville,3,ppg,5.03225806451613
+L. Nolley II,Landers Nolley II,Virginia Tech,Virginia Tech,4,ppg,15.3
+M. Bates,Manny Bates,NC State,NC State,2,ppg,5.10344827586207
+M. Devoe,Michael Devoe,Georgia Tech,Georgia Tech,1,ppg,15.5925925925926
+M. Diakite,Mamadi Diakite,Virginia,UVA,4,ppg,13.7333333333333
+M. Dolezaj,Marek Dolezaj,Syracuse,Syracuse,4,ppg,10.375
+M. Hurt,Matthew Hurt,Duke,Duke,3,ppg,9.74193548387097
+M. Johnson,Markell Johnson,NC State,NC State,1,ppg,12.8387096774194
+M. Osborne,Malik Osborne,Florida State,Florida State,3,ppg,6
+M. Williams,Malik Williams,Louisville,Louisville,4,ppg,8.46153846153846
+M. Wright,Moses Wright,Georgia Tech,Georgia Tech,4,ppg,13.0333333333333
+M.J. Walker,M.J. Walker,Florida State,Florida State,3,ppg,10.5769230769231
+N. Alleyne,Nahiem Alleyne,Virginia Tech,Virginia Tech,3,ppg,9.2
+N. Laszewski,Nate Laszewski,Notre Dame,Notre Dame,3,ppg,7.4375
+N. Popovic,Nik Popovic,Boston College,Boston College,4,ppg,10.5
+O. Oguama,Ody Oguama,Wake Forest,Wake Forest,2,ppg,2.93548387096774
+O. Sarr,Olivier Sarr,Wake Forest,Wake Forest,4,ppg,13.7333333333333
+P. Andree,Pat Andree,NC State,NC State,3,ppg,4.44444444444444
+P. Hubb,Prentiss Hubb,Notre Dame,Notre Dame,1,ppg,12.09375
+P. Williams,Patrick Williams,Florida State,Florida State,4,ppg,9.24137931034483
+P.J. Horne,P.J. Horne,Virginia Tech,Virginia Tech,3,ppg,7.73333333333333
+Q. Guerrier,Quincy Guerrier,Syracuse,Syracuse,2,ppg,6.875
+R. Carmody,Robby Carmody,Notre Dame,Notre Dame,2,ppg,5.42857142857143
+R. Evans,Rayquan Evans,Florida State,Florida State,3,ppg,3.20689655172414
+R. Gray,RaiQuan Gray,Florida State,Florida State,4,ppg,5.96551724137931
+R. McMahon,Ryan McMahon,Louisville,Louisville,3,ppg,8.74193548387097
+R. Miller Jr.,Rodney Miller Jr.,Miami,Miami,2,ppg,7.2
+R. Murphy,Ryan Murphy,Pittsburgh,Pitt,3,ppg,7.68965517241379
+R. Pflueger,Rex Pflueger,Notre Dame,Notre Dame,3,ppg,5.16129032258065
+S. Enoch,Steven Enoch,Louisville,Louisville,4,ppg,9.45161290322581
+S. Mitchell,Steffon Mitchell,Boston College,Boston College,4,ppg,7.80645161290323
+S. Waardenburg,Sam Waardenburg,Miami,Miami,4,ppg,5.86666666666667
+S. Williamson,Samuell Williamson,Louisville,Louisville,3,ppg,4.41935483870968
+T. Brown,Terrell Brown,Pittsburgh,Pitt,2,ppg,4.875
+T. Forrest,Trent Forrest,Florida State,Florida State,1,ppg,11.5806451612903
+T. Gibbs,TJ Gibbs,Notre Dame,Notre Dame,1,ppg,13.3125
+T. Johnson,Torry Johnson,Wake Forest,Wake Forest,3,ppg,5.60714285714286
+T. Jones,Tre Jones,Duke,Duke,1,ppg,16.2413793103448
+T. Mack,Tevin Mack,Clemson,Clemson,4,ppg,12.1612903225806
+T. McGowens,Trey McGowens,Pittsburgh,Pitt,1,ppg,11.875
+T. Radford,Tyrece Radford,Virginia Tech,Virginia Tech,2,ppg,10.0666666666667
+T. Woldetensae,Tomas Woldetensae,Virginia,UVA,3,ppg,6.55172413793104
+V. Carey Jr.,Vernon Carey Jr.,Duke,Duke,4,ppg,17.8064516129032
+W. Bede,Wabissa Bede,Virginia Tech,Virginia Tech,1,ppg,5.23333333333333
+W. Moore Jr.,Wendell Moore Jr.,Duke,Duke,4,ppg,7.44
+X. Johnson,Xavier Johnson,Pittsburgh,Pitt,1,ppg,11.625
+A. Bacot,Armando Bacot,North Carolina,UNC,4,weight,232
+A. Dawes,Al-Amir Dawes,Clemson,Clemson,1,weight,180
+A. Harris,Anthony Harris,North Carolina,UNC,3,weight,190
+A. Hemenway,Alex Hemenway,Clemson,Clemson,3,weight,180
+A. O'Connell,Alex O'Connell,Duke,Duke,3,weight,190
+A. Platek,Andrew Platek,North Carolina,UNC,3,weight,200
+A. Polite,Anthony Polite,Florida State,Florida State,3,weight,215
+A. Price,Asanti Price,Georgia Tech,Georgia Tech,3,weight,177
+A. Simms,Aamir Simms,Clemson,Clemson,4,weight,240
+A. Toney,Au'Diese Toney,Pittsburgh,Pitt,4,weight,210
+A. Walker,Anthony Walker,Miami,Miami,2,weight,210
+A. White,Andrien White,Wake Forest,Wake Forest,3,weight,200
+B. Beverly,Braxton Beverly,NC State,NC State,3,weight,180
+B. Boeheim,Buddy Boeheim,Syracuse,Syracuse,1,weight,195
+B. Childress,Brandon Childress,Wake Forest,Wake Forest,1,weight,195
+B. Key,Braxton Key,Virginia,UVA,4,weight,230
+B. Koprivica,Balsa Koprivica,Florida State,Florida State,2,weight,260
+B. Parham,Bubba Parham,Georgia Tech,Georgia Tech,3,weight,160
+B. Robinson,Brandon Robinson,North Carolina,UNC,1,weight,173
+B. Sidibe,Bourama Sidibe,Syracuse,Syracuse,2,weight,210
+C. Anthony,Cole Anthony,North Carolina,UNC,1,weight,190
+C. Brown,Chaundee Brown,Wake Forest,Wake Forest,4,weight,220
+C. Felder,CJ Felder,Boston College,Boston College,2,weight,230
+C. Hunter,Chase Hunter,Clemson,Clemson,3,weight,200
+C. Keeling,Christian Keeling,North Carolina,UNC,3,weight,180
+C. Lykes,Chris Lykes,Miami,Miami,1,weight,157
+C. Morsell,Casey Morsell,Virginia,UVA,3,weight,195
+C. Scott,Curran Scott,Clemson,Clemson,3,weight,205
+C. Stanley,Cassius Stanley,Duke,Duke,4,weight,193
+C. Trapp,Clyde Trapp,Clemson,Clemson,3,weight,194
+C.J. Bryce,C.J. Bryce,NC State,NC State,4,weight,210
+D. Daniels,Devon Daniels,NC State,NC State,4,weight,205
+D. Funderburk,DJ Funderburk,NC State,NC State,4,weight,225
+D. Gak,Deng Gak,Miami,Miami,2,weight,211
+D. Goodwin,Dane Goodwin,Notre Dame,Notre Dame,3,weight,200
+D. Johnson,David Johnson,Louisville,Louisville,3,weight,210
+D. Olejniczak,Dominik Olejniczak,Florida State,Florida State,2,weight,260
+D. Perry,Darius Perry,Louisville,Louisville,3,weight,195
+D. Sutton,Dwayne Sutton,Louisville,Louisville,4,weight,220
+D. Thornton,Derryck Thornton,Boston College,Boston College,1,weight,195
+D. Vasiljevic,Dejan Vasiljevic,Miami,Miami,3,weight,184
+D. Vassell,Devin Vassell,Florida State,Florida State,4,weight,180
+E. Cole,Evan Cole,Georgia Tech,Georgia Tech,2,weight,226
+E. Hamilton,Eric Hamilton,Pittsburgh,Pitt,2,weight,250
+E. Hughes,Elijah Hughes,Syracuse,Syracuse,1,weight,215
+G. Brooks,Garrison Brooks,North Carolina,UNC,4,weight,235
+H. Beverly,Harlond Beverly,Miami,Miami,3,weight,185
+H. Cattoor,Hunter Cattoor,Virginia Tech,Virginia Tech,3,weight,205
+H. Tyson,Hunter Tyson,Clemson,Clemson,3,weight,211
+I. Massoud,Ismael Massoud,Wake Forest,Wake Forest,3,weight,200
+I. Mucius,Isaiah Mucius,Wake Forest,Wake Forest,3,weight,195
+I. Wilkins,Isaiah Wilkins,Virginia Tech,Virginia Tech,3,weight,230
+I. Wong,Isaiah Wong,Miami,Miami,3,weight,170
+J. Alvarado,Jose Alvarado,Georgia Tech,Georgia Tech,1,weight,179
+J. Baehre,Jonathan Baehre,Clemson,Clemson,3,weight,209
+J. Baker,Joey Baker,Duke,Duke,3,weight,208
+J. Banks III,James Banks III,Georgia Tech,Georgia Tech,4,weight,250
+J. Carey,Jalen Carey,Syracuse,Syracuse,3,weight,186
+J. Champagnie,Justin Champagnie,Pittsburgh,Pitt,4,weight,200
+J. Cone,Jalen Cone,Virginia Tech,Virginia Tech,3,weight,170
+J. DeLaurier,Javin DeLaurier,Duke,Duke,2,weight,237
+J. Durham,Juwan Durham,Notre Dame,Notre Dame,2,weight,223
+J. Francis,Jeremiah Francis,North Carolina,UNC,3,weight,210
+J. Girard III,Joseph Girard III,Syracuse,Syracuse,1,weight,181
+J. Goldwire,Jordan Goldwire,Duke,Duke,3,weight,185
+J. Hamilton,Jairus Hamilton,Boston College,Boston College,4,weight,234
+J. Hamilton,Jared Hamilton,Boston College,Boston College,3,weight,203
+J. Heath,Jay Heath,Boston College,Boston College,1,weight,175
+J. Hellems,Jericole Hellems,NC State,NC State,3,weight,205
+J. Huff,Jay Huff,Virginia,UVA,4,weight,243
+J. Mooney,John Mooney,Notre Dame,Notre Dame,4,weight,245
+J. Neath,Jahcobi Neath,Wake Forest,Wake Forest,3,weight,200
+J. Newman III,John Newman III,Clemson,Clemson,3,weight,197
+J. Nwora,Jordan Nwora,Louisville,Louisville,4,weight,225
+J. Pierce,Justin Pierce,North Carolina,UNC,3,weight,210
+J. Rishwain,Julian Rishwain,Boston College,Boston College,3,weight,190
+J. Usher,Jordan Usher,Georgia Tech,Georgia Tech,4,weight,225
+J. White,Jack White,Duke,Duke,3,weight,222
+K. Clark,Kihei Clark,Virginia,UVA,1,weight,163
+K. McGusty,Kameron McGusty,Miami,Miami,1,weight,192
+K. Moore,Khalid Moore,Georgia Tech,Georgia Tech,3,weight,203
+K. Stattmann,Kody Stattmann,Virginia,UVA,3,weight,200
+K. Stone,Keith Stone,Miami,Miami,3,weight,244
+K. Williams,Kamari Williams,Boston College,Boston College,3,weight,200
+L. Black,Leaky Black,North Carolina,UNC,4,weight,195
+L. Kimble,Lamarr Kimble,Louisville,Louisville,3,weight,185
+L. Nolley II,Landers Nolley II,Virginia Tech,Virginia Tech,4,weight,230
+M. Bates,Manny Bates,NC State,NC State,2,weight,230
+M. Devoe,Michael Devoe,Georgia Tech,Georgia Tech,1,weight,193
+M. Diakite,Mamadi Diakite,Virginia,UVA,4,weight,224
+M. Dolezaj,Marek Dolezaj,Syracuse,Syracuse,4,weight,185
+M. Hurt,Matthew Hurt,Duke,Duke,3,weight,214
+M. Johnson,Markell Johnson,NC State,NC State,1,weight,175
+M. Osborne,Malik Osborne,Florida State,Florida State,3,weight,215
+M. Williams,Malik Williams,Louisville,Louisville,4,weight,245
+M. Wright,Moses Wright,Georgia Tech,Georgia Tech,4,weight,230
+M.J. Walker,M.J. Walker,Florida State,Florida State,3,weight,213
+N. Alleyne,Nahiem Alleyne,Virginia Tech,Virginia Tech,3,weight,195
+N. Laszewski,Nate Laszewski,Notre Dame,Notre Dame,3,weight,225
+N. Popovic,Nik Popovic,Boston College,Boston College,4,weight,253
+O. Oguama,Ody Oguama,Wake Forest,Wake Forest,2,weight,205
+O. Sarr,Olivier Sarr,Wake Forest,Wake Forest,4,weight,255
+P. Andree,Pat Andree,NC State,NC State,3,weight,220
+P. Hubb,Prentiss Hubb,Notre Dame,Notre Dame,1,weight,175
+P. Williams,Patrick Williams,Florida State,Florida State,4,weight,225
+P.J. Horne,P.J. Horne,Virginia Tech,Virginia Tech,3,weight,230
+Q. Guerrier,Quincy Guerrier,Syracuse,Syracuse,2,weight,220
+R. Carmody,Robby Carmody,Notre Dame,Notre Dame,2,weight,201
+R. Evans,Rayquan Evans,Florida State,Florida State,3,weight,210
+R. Gray,RaiQuan Gray,Florida State,Florida State,4,weight,260
+R. McMahon,Ryan McMahon,Louisville,Louisville,3,weight,185
+R. Miller Jr.,Rodney Miller Jr.,Miami,Miami,2,weight,255
+R. Murphy,Ryan Murphy,Pittsburgh,Pitt,3,weight,185
+R. Pflueger,Rex Pflueger,Notre Dame,Notre Dame,3,weight,218
+S. Enoch,Steven Enoch,Louisville,Louisville,4,weight,255
+S. Mitchell,Steffon Mitchell,Boston College,Boston College,4,weight,220
+S. Waardenburg,Sam Waardenburg,Miami,Miami,4,weight,216
+S. Williamson,Samuell Williamson,Louisville,Louisville,3,weight,200
+T. Brown,Terrell Brown,Pittsburgh,Pitt,2,weight,235
+T. Forrest,Trent Forrest,Florida State,Florida State,1,weight,210
+T. Gibbs,TJ Gibbs,Notre Dame,Notre Dame,1,weight,185
+T. Johnson,Torry Johnson,Wake Forest,Wake Forest,3,weight,175
+T. Jones,Tre Jones,Duke,Duke,1,weight,185
+T. Mack,Tevin Mack,Clemson,Clemson,4,weight,227
+T. McGowens,Trey McGowens,Pittsburgh,Pitt,1,weight,190
+T. Radford,Tyrece Radford,Virginia Tech,Virginia Tech,2,weight,195
+T. Woldetensae,Tomas Woldetensae,Virginia,UVA,3,weight,196
+V. Carey Jr.,Vernon Carey Jr.,Duke,Duke,4,weight,270
+W. Bede,Wabissa Bede,Virginia Tech,Virginia Tech,1,weight,195
+W. Moore Jr.,Wendell Moore Jr.,Duke,Duke,4,weight,213
+X. Johnson,Xavier Johnson,Pittsburgh,Pitt,1,weight,200
+A. Bacot,Armando Bacot,North Carolina,UNC,4,height,82
+A. Dawes,Al-Amir Dawes,Clemson,Clemson,1,height,74
+A. Harris,Anthony Harris,North Carolina,UNC,3,height,76
+A. Hemenway,Alex Hemenway,Clemson,Clemson,3,height,75
+A. O'Connell,Alex O'Connell,Duke,Duke,3,height,78
+A. Platek,Andrew Platek,North Carolina,UNC,3,height,76
+A. Polite,Anthony Polite,Florida State,Florida State,3,height,78
+A. Price,Asanti Price,Georgia Tech,Georgia Tech,3,height,77
+A. Simms,Aamir Simms,Clemson,Clemson,4,height,80
+A. Toney,Au'Diese Toney,Pittsburgh,Pitt,4,height,78
+A. Walker,Anthony Walker,Miami,Miami,2,height,81
+A. White,Andrien White,Wake Forest,Wake Forest,3,height,75
+B. Beverly,Braxton Beverly,NC State,NC State,3,height,72
+B. Boeheim,Buddy Boeheim,Syracuse,Syracuse,1,height,78
+B. Childress,Brandon Childress,Wake Forest,Wake Forest,1,height,72
+B. Key,Braxton Key,Virginia,UVA,4,height,80
+B. Koprivica,Balsa Koprivica,Florida State,Florida State,2,height,85
+B. Parham,Bubba Parham,Georgia Tech,Georgia Tech,3,height,70
+B. Robinson,Brandon Robinson,North Carolina,UNC,1,height,77
+B. Sidibe,Bourama Sidibe,Syracuse,Syracuse,2,height,82
+C. Anthony,Cole Anthony,North Carolina,UNC,1,height,75
+C. Brown,Chaundee Brown,Wake Forest,Wake Forest,4,height,77
+C. Felder,CJ Felder,Boston College,Boston College,2,height,79
+C. Hunter,Chase Hunter,Clemson,Clemson,3,height,75
+C. Keeling,Christian Keeling,North Carolina,UNC,3,height,75
+C. Lykes,Chris Lykes,Miami,Miami,1,height,67
+C. Morsell,Casey Morsell,Virginia,UVA,3,height,75
+C. Scott,Curran Scott,Clemson,Clemson,3,height,76
+C. Stanley,Cassius Stanley,Duke,Duke,4,height,78
+C. Trapp,Clyde Trapp,Clemson,Clemson,3,height,76
+C.J. Bryce,C.J. Bryce,NC State,NC State,4,height,77
+D. Daniels,Devon Daniels,NC State,NC State,4,height,77
+D. Funderburk,DJ Funderburk,NC State,NC State,4,height,82
+D. Gak,Deng Gak,Miami,Miami,2,height,82
+D. Goodwin,Dane Goodwin,Notre Dame,Notre Dame,3,height,78
+D. Johnson,David Johnson,Louisville,Louisville,3,height,77
+D. Olejniczak,Dominik Olejniczak,Florida State,Florida State,2,height,84
+D. Perry,Darius Perry,Louisville,Louisville,3,height,74
+D. Sutton,Dwayne Sutton,Louisville,Louisville,4,height,77
+D. Thornton,Derryck Thornton,Boston College,Boston College,1,height,75
+D. Vasiljevic,Dejan Vasiljevic,Miami,Miami,3,height,75
+D. Vassell,Devin Vassell,Florida State,Florida State,4,height,78
+E. Cole,Evan Cole,Georgia Tech,Georgia Tech,2,height,82
+E. Hamilton,Eric Hamilton,Pittsburgh,Pitt,2,height,81
+E. Hughes,Elijah Hughes,Syracuse,Syracuse,1,height,78
+G. Brooks,Garrison Brooks,North Carolina,UNC,4,height,81
+H. Beverly,Harlond Beverly,Miami,Miami,3,height,76
+H. Cattoor,Hunter Cattoor,Virginia Tech,Virginia Tech,3,height,75
+H. Tyson,Hunter Tyson,Clemson,Clemson,3,height,80
+I. Massoud,Ismael Massoud,Wake Forest,Wake Forest,3,height,80
+I. Mucius,Isaiah Mucius,Wake Forest,Wake Forest,3,height,80
+I. Wilkins,Isaiah Wilkins,Virginia Tech,Virginia Tech,3,height,75
+I. Wong,Isaiah Wong,Miami,Miami,3,height,75
+J. Alvarado,Jose Alvarado,Georgia Tech,Georgia Tech,1,height,72
+J. Baehre,Jonathan Baehre,Clemson,Clemson,3,height,82
+J. Baker,Joey Baker,Duke,Duke,3,height,79
+J. Banks III,James Banks III,Georgia Tech,Georgia Tech,4,height,82
+J. Carey,Jalen Carey,Syracuse,Syracuse,3,height,75
+J. Champagnie,Justin Champagnie,Pittsburgh,Pitt,4,height,78
+J. Cone,Jalen Cone,Virginia Tech,Virginia Tech,3,height,70
+J. DeLaurier,Javin DeLaurier,Duke,Duke,2,height,82
+J. Durham,Juwan Durham,Notre Dame,Notre Dame,2,height,83
+J. Francis,Jeremiah Francis,North Carolina,UNC,3,height,72
+J. Girard III,Joseph Girard III,Syracuse,Syracuse,1,height,73
+J. Goldwire,Jordan Goldwire,Duke,Duke,3,height,74
+J. Hamilton,Jairus Hamilton,Boston College,Boston College,4,height,80
+J. Hamilton,Jared Hamilton,Boston College,Boston College,3,height,76
+J. Heath,Jay Heath,Boston College,Boston College,1,height,75
+J. Hellems,Jericole Hellems,NC State,NC State,3,height,79
+J. Huff,Jay Huff,Virginia,UVA,4,height,85
+J. Mooney,John Mooney,Notre Dame,Notre Dame,4,height,81
+J. Neath,Jahcobi Neath,Wake Forest,Wake Forest,3,height,75
+J. Newman III,John Newman III,Clemson,Clemson,3,height,77
+J. Nwora,Jordan Nwora,Louisville,Louisville,4,height,79
+J. Pierce,Justin Pierce,North Carolina,UNC,3,height,79
+J. Rishwain,Julian Rishwain,Boston College,Boston College,3,height,77
+J. Usher,Jordan Usher,Georgia Tech,Georgia Tech,4,height,79
+J. White,Jack White,Duke,Duke,3,height,79
+K. Clark,Kihei Clark,Virginia,UVA,1,height,69
+K. McGusty,Kameron McGusty,Miami,Miami,1,height,77
+K. Moore,Khalid Moore,Georgia Tech,Georgia Tech,3,height,79
+K. Stattmann,Kody Stattmann,Virginia,UVA,3,height,79
+K. Stone,Keith Stone,Miami,Miami,3,height,80
+K. Williams,Kamari Williams,Boston College,Boston College,3,height,79
+L. Black,Leaky Black,North Carolina,UNC,4,height,80
+L. Kimble,Lamarr Kimble,Louisville,Louisville,3,height,72
+L. Nolley II,Landers Nolley II,Virginia Tech,Virginia Tech,4,height,79
+M. Bates,Manny Bates,NC State,NC State,2,height,83
+M. Devoe,Michael Devoe,Georgia Tech,Georgia Tech,1,height,77
+M. Diakite,Mamadi Diakite,Virginia,UVA,4,height,81
+M. Dolezaj,Marek Dolezaj,Syracuse,Syracuse,4,height,82
+M. Hurt,Matthew Hurt,Duke,Duke,3,height,81
+M. Johnson,Markell Johnson,NC State,NC State,1,height,73
+M. Osborne,Malik Osborne,Florida State,Florida State,3,height,81
+M. Williams,Malik Williams,Louisville,Louisville,4,height,83
+M. Wright,Moses Wright,Georgia Tech,Georgia Tech,4,height,81
+M.J. Walker,M.J. Walker,Florida State,Florida State,3,height,77
+N. Alleyne,Nahiem Alleyne,Virginia Tech,Virginia Tech,3,height,75
+N. Laszewski,Nate Laszewski,Notre Dame,Notre Dame,3,height,82
+N. Popovic,Nik Popovic,Boston College,Boston College,4,height,83
+O. Oguama,Ody Oguama,Wake Forest,Wake Forest,2,height,81
+O. Sarr,Olivier Sarr,Wake Forest,Wake Forest,4,height,84
+P. Andree,Pat Andree,NC State,NC State,3,height,80
+P. Hubb,Prentiss Hubb,Notre Dame,Notre Dame,1,height,75
+P. Williams,Patrick Williams,Florida State,Florida State,4,height,80
+P.J. Horne,P.J. Horne,Virginia Tech,Virginia Tech,3,height,77
+Q. Guerrier,Quincy Guerrier,Syracuse,Syracuse,2,height,79
+R. Carmody,Robby Carmody,Notre Dame,Notre Dame,2,height,76
+R. Evans,Rayquan Evans,Florida State,Florida State,3,height,76
+R. Gray,RaiQuan Gray,Florida State,Florida State,4,height,80
+R. McMahon,Ryan McMahon,Louisville,Louisville,3,height,72
+R. Miller Jr.,Rodney Miller Jr.,Miami,Miami,2,height,84
+R. Murphy,Ryan Murphy,Pittsburgh,Pitt,3,height,74
+R. Pflueger,Rex Pflueger,Notre Dame,Notre Dame,3,height,78
+S. Enoch,Steven Enoch,Louisville,Louisville,4,height,82
+S. Mitchell,Steffon Mitchell,Boston College,Boston College,4,height,80
+S. Waardenburg,Sam Waardenburg,Miami,Miami,4,height,82
+S. Williamson,Samuell Williamson,Louisville,Louisville,3,height,79
+T. Brown,Terrell Brown,Pittsburgh,Pitt,2,height,82
+T. Forrest,Trent Forrest,Florida State,Florida State,1,height,76
+T. Gibbs,TJ Gibbs,Notre Dame,Notre Dame,1,height,75
+T. Johnson,Torry Johnson,Wake Forest,Wake Forest,3,height,75
+T. Jones,Tre Jones,Duke,Duke,1,height,75
+T. Mack,Tevin Mack,Clemson,Clemson,4,height,78
+T. McGowens,Trey McGowens,Pittsburgh,Pitt,1,height,76
+T. Radford,Tyrece Radford,Virginia Tech,Virginia Tech,2,height,74
+T. Woldetensae,Tomas Woldetensae,Virginia,UVA,3,height,77
+V. Carey Jr.,Vernon Carey Jr.,Duke,Duke,4,height,82
+W. Bede,Wabissa Bede,Virginia Tech,Virginia Tech,1,height,73
+W. Moore Jr.,Wendell Moore Jr.,Duke,Duke,4,height,78
+X. Johnson,Xavier Johnson,Pittsburgh,Pitt,1,height,75
